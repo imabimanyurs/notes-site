@@ -34,11 +34,11 @@ kbd{font-size:11px;border:1px solid var(--line);border-radius:4px;padding:1px 5p
 .modal{background:var(--panel);border:1px solid var(--line);border-radius:16px;max-width:720px;width:100%;padding:28px;position:relative}
 .modal h2{margin:6px 0 4px;font-size:24px}.modal .meta{color:var(--mut);font-size:13px;margin-bottom:16px}
 .core{background:var(--core);border-left:3px solid var(--acc);padding:12px 16px;border-radius:8px;margin:12px 0 18px}
-.modal li{margin:6px 0}.x{position:absolute;top:14px;right:16px;background:none;border:0;color:var(--mut);font-size:22px;cursor:pointer}
+.modal li{margin:6px 0}.x{position:absolute;top:14px;right:16px;line-height:1;background:none;border:0;color:var(--mut);font-size:22px;cursor:pointer}
 .pal{max-width:560px;padding:0;overflow:hidden}.pal input{width:100%;padding:16px 18px;border:0;border-bottom:1px solid var(--line);background:transparent;color:var(--txt);font:inherit;font-size:16px;outline:none}
 .pal .it{padding:10px 18px;cursor:pointer;display:flex;justify-content:space-between;font-size:14px}.pal .it.sel{background:var(--sel)}.pal .it small{color:var(--mut)}
 .menu{display:none}.watch{display:inline-block;margin-top:10px;font-size:12.5px;font-weight:600;color:#fff;background:#e11d48;padding:5px 10px;border-radius:8px;text-decoration:none}.watch:hover{background:#be123c}.list .card{min-height:120px}.card{display:flex;flex-direction:column}.grid .body{flex:1}.hero{display:none;background:linear-gradient(135deg,#4f46e5,#7c3aed 60%,#db2777);color:#fff;border-radius:18px;padding:26px 28px;margin-bottom:22px}.hero.show{display:block}.hero h3{margin:0 0 6px;font-size:22px}.hero p{margin:0;opacity:.9}.chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px}.chips a{background:#fff3;color:#fff;padding:5px 12px;border-radius:20px;font-size:13px;cursor:pointer}.chips a:hover{background:#fff5}
-html,body{overflow-x:hidden}
+html,body{overflow-x:hidden}body.lock{overflow:hidden;position:fixed;width:100%}
 .scrim{display:none}
 @media(max-width:800px){
 aside{position:fixed;left:-270px;width:260px;z-index:20;transition:left .22s;box-shadow:var(--sh)}aside.open{left:0}
@@ -57,7 +57,7 @@ aside{position:fixed;left:-270px;width:260px;z-index:20;transition:left .22s;box
 .hero{padding:18px;border-radius:14px}.hero h3{font-size:18px}.hero p{font-size:14px}
 .chips a{font-size:12px;padding:4px 10px}
 .list .card{flex-direction:row}.list .thumb{width:110px;font-size:0;padding:0}.list .thumb:after{width:30px;height:30px;font-size:11px}.list .body{padding:10px 12px}.list .tl{-webkit-line-clamp:2}
-.ov{padding:0;align-items:stretch}.modal{border-radius:0;padding:22px 18px 30px;min-height:100%}.modal h2{font-size:20px}
+#ov.ov{padding:0;display:none;align-items:flex-start;background:var(--panel);overscroll-behavior:contain;-webkit-overflow-scrolling:touch}#ov.ov.show{display:block}#md.modal{border:0;border-radius:0;padding:0 18px 40px;min-height:100%;height:auto;max-width:none;background:var(--panel)}.modal h2{font-size:20px}.x{position:sticky;top:0;float:right;margin:0 -18px 0 0;padding:12px 18px;background:var(--panel);z-index:2;font-size:26px}#md .tag{padding-top:18px;display:block}
 .pal{min-height:auto;border-radius:0 0 14px 14px}
 .pager{flex-wrap:wrap}
 }
@@ -73,7 +73,7 @@ aside{position:fixed;left:-270px;width:260px;z-index:20;transition:left .22s;box
 <div class="hero" id="hero"></div><div id="out"></div><div class="pager" id="pager"></div></main></div>
 <div class="scrim" id="scrim" onclick="sideOpen(false)"></div><div class="ov" id="ov" onclick="if(event.target==this)closeAll()"><div class="modal" id="md"></div></div>
 <div class="ov" id="po" onclick="if(event.target==this)closeAll()"><div class="modal pal"><input id="pi" placeholder="Jump to a note, category, or view…"><div id="pl"></div></div></div>
-<script src="notes.js?v=7"></script><script>
+<script src="notes.js?v=8"></script><script>
 const $=id=>document.getElementById(id),PER=12,COLORS=["#4f46e5,#9333ea","#0ea5e9,#2563eb","#f43f5e,#f97316","#10b981,#0d9488","#eab308,#f97316","#8b5cf6,#ec4899"];
 let S={nav:"all",cat:null,view:localStorage.view||"grid",page:1},fav=new Set(JSON.parse(localStorage.fav||"[]"));
 NOTES.forEach((n,i)=>{n.id=n.id||i+1;n.added=n.added||'2026-10-22';n.points=n.points||[];n.core=n.core||'';n.author=n.author||''});
@@ -108,8 +108,9 @@ function toggleFav(id){fav.has(id)?fav.delete(id):fav.add(id);localStorage.fav=J
 function openNote(id){const n=NOTES.find(x=>x.id==id);$('md').innerHTML=`<button class="x" onclick="closeAll()">×</button><div class="tag">${esc(n.category)}</div><h2>${esc(n.title)}</h2>
  <div class="meta">${n.author?esc(n.author)+" · ":""}Added ${n.added}${n.url?` · <a class="watch" style="margin:0" href="${esc(n.url)}" target="_blank">▶ Watch on YouTube</a>`:""}</div>
  <button class="btn ${fav.has(n.id)?'on':''}" onclick="toggleFav(${n.id})">${fav.has(n.id)?'★ Favorited':'☆ Add to favorites'}</button>
- <div class="core"><b>Core idea</b><br>${esc(n.core)}</div><b>Key points</b><ul>${n.points.map(p=>`<li>${esc(p)}</li>`).join("")}</ul>`;$('ov').classList.add('show');location.hash="note-"+id}
-function closeAll(){$('ov').classList.remove('show');$('po').classList.remove('show');if(location.hash)history.replaceState(null,"",location.pathname)}
+ <div class="core"><b>Core idea</b><br>${esc(n.core)}</div><b>Key points</b><ul>${n.points.map(p=>`<li>${esc(p)}</li>`).join("")}</ul>`;$('ov').classList.add('show');$('ov').scrollTop=0;lock(true);location.hash="note-"+id}
+let sy=0;function lock(o){if(o&&!document.body.classList.contains('lock')){sy=scrollY;document.body.style.top=-sy+'px';document.body.classList.add('lock')}else if(!o&&document.body.classList.contains('lock')){document.body.classList.remove('lock');document.body.style.top='';scrollTo(0,sy)}}
+function closeAll(){lock(false);$('ov').classList.remove('show');$('po').classList.remove('show');if(location.hash)history.replaceState(null,"",location.pathname)}
 let pitems=[],psel=0;
 function openPal(){$('po').classList.add('show');$('pi').value="";pal();setTimeout(()=>$('pi').focus(),10)}
 function pal(){const t=$('pi').value.toLowerCase();const all=[...[["home","Home"],["all","All Notes"],["fav","Favorites"],["recent","Recently Added"]].map(([k,l])=>({l,k:"View",f:()=>go(k)})),
