@@ -323,7 +323,140 @@ window.NOTES = [
     "Tools: ChatGPT voice mode with a prompt like 'talk to me for 10 minutes, one question at a time, give one improvement after each answer', a word-of-the-day newsletter (e.g. dictionary.com), and YouGlish for real pronunciations.",
     "Daily exercises: Write 500 words on a random topic, talk to yourself in English, and imitate speakers you like (politicians, actors) until your own style emerges."
   ]
+},
+{
+  "id": 29,
+  "added": "2026-10-22",
+  "url": "https://youtu.be/eaHfex71yO0",
+  "title": "Why You Can’t Focus Anymore",
+  "author": "Raj Shamani Insights",
+  "category": "Psychology & Mindset",
+  "core": "The most widespread productivity problem is bad digital hygiene, meaning a poor relationship with your digital tools and notifications. A UT Austin study shows that a phone that is switched off but visible face down nearby significantly lowers attention span and general fluid intelligence, compared with keeping it in a pocket or in another room. The brain links the phone to memories, people, payments and entertainment, so seeing it keeps pulling your attention. When you need full brainpower, hide the phone, keep phones out of important meetings and conversations, and put it away 30 minutes before bed.",
+  "points": [
+    "Bad digital hygiene means a bad relationship with your digital tools, especially notifications. It is the most common productivity problem in people's lives and workplaces.",
+    "General fluid intelligence is the ability to hold important information in mind while taking in and working with new information. It is tested with complex working memory tasks.",
+    "In the UT Austin study, participants turned their phones fully off. The phone was then kept in another room, in a pocket or bag, or face down on the desk.",
+    "When the dead phone was visible, scores for attention span and fluid intelligence dropped significantly across the board. It was the same brain with less capability.",
+    "Why: everything is on the phone (memories, photos, friends, plans, drama, payments), so when you can see it your brain keeps thinking about it and wants to use it.",
+    "Fix: have a 'parking lot' or box where the phone is hidden. Out of sight, out of mind. You don't have to do this all the time, only when you need 100% of your intelligence.",
+    "Treat yourself like an Olympic athlete. At game time (big decisions, team brainstorms), get phones out of the room, because visible phones lower the whole team's IQ.",
+    "Studies show that people who keep their phone in hand or on the table when meeting someone seem less trustworthy, capable and intelligent. It signals that someone more important might call.",
+    "A phone on the table lowers the quality of the conversation and the connection, including on dates.",
+    "Raj's habit: hand the phone over or keep it out of the room, on airplane mode or off, about 30 minutes before recording.",
+    "Respect your sleep in the same way: put the phone away 30 minutes before bed. It affects performance and mindset a lot."
+  ]
+},
+{
+  "id": 30,
+  "added": "2026-10-22",
+  "url": "https://youtu.be/NLiDyAFP75w",
+  "title": "15 Best Countries in Europe to Live and Work 2026 (Jobs + Salaries $)",
+  "author": "Ticket",
+  "category": "Immigration & Abroad",
+  "core": "A countdown of 15 European countries for living and working, covering each one's strong job sectors, quality-of-life advantages and downsides (cost of living, language, weather, taxes, competition). Each entry gives the average monthly income, the monthly cost of living excluding rent, and the rent for a one-bedroom apartment. Finland comes first for happiness, education and work-life balance. It is followed by Switzerland (highest salaries), Austria, Norway and Germany.",
+  "points": [
+    "#15 Spain: Good work-life balance, friendly people, reasonable cost of living. Sectors: tourism, tech, services, education, renewables. Downsides: lower salaries, high youth unemployment in some regions, a Spanish-language barrier, rising rents in Barcelona and Madrid. Income ~€1,800, living ~€800, rent €700–900.",
+    "#14 France: Diverse cities, a top healthcare system, strong education. Sectors: tech, engineering, aviation, fashion, healthcare, tourism. Downsides: an expensive Paris, French is vital, slow bureaucracy, crowded big cities. Income ~€2,400, living ~€1,000, rent €600–800.",
+    "#13 Iceland: One of the safest countries, high salaries, a strong focus on quality of life. Sectors: tourism, renewable energy, fisheries, tech, services. Downsides: a very high cost of living, long dark winters, a small job market, a hard language (though English is widely spoken). Income ~€4,000, living ~€1,400, rent €1,700–2,000.",
+    "#12 Luxembourg: A global financial hub with some of Europe's highest salaries and an international society. Sectors: banking, finance, law, tech, EU services. Downsides: very high rent and property prices, a small country that can feel boring, French, German or Luxembourgish required in some jobs, tough competition. Income ~€4,600, living ~€1,100, rent €1,700–2,000.",
+    "#11 United Kingdom: A huge, diversified economy (tech, finance, medicine, engineering, media, AI), London as a global hub, Oxford and Cambridge, high diversity. Downsides: a very high cost of living (especially London), rainy weather, intense job competition. Income ~€2,800, living ~€1,000, rent €900–1,200.",
+    "#10 Belgium: A central location with Brussels as an EU and international hub, a peaceful and organised life, strong healthcare, education and transport. Downsides: high taxes, cloudy weather, multiple languages (French, Dutch, German) required by region, high rents in Brussels. Income ~€2,600, living ~€1,000, rent €700–900.",
+    "#9 Sweden: A strong economy and work-life balance (comfortable hours, generous vacations, attention to mental health). Sectors: tech, engineering, energy, medicine, education. Downsides: high costs in big cities, long cold winters, Swedish needed in some jobs, a reserved society. Income ~€2,800, living ~€1,000, rent €600–800.",
+    "#8 Denmark: Real work-life balance, equality and human rights. Sectors: tech, renewables, engineering, design, pharma. Downsides: very high costs, high taxes, Danish important for integration, cold cloudy winters. Income ~€4,300, living ~€1,300, rent €900–1,200.",
+    "#7 Netherlands: Organised yet flexible, a strong economy (tech, engineering, trade, logistics, agriculture, startups), work-life balance, open to foreigners. Downsides: high rents in Amsterdam and Rotterdam, rain, high competition, Dutch helps long term. Income ~€3,400, living ~€1,000, rent €1,100–1,500.",
+    "#6 Ireland: A fast-growing economy with big tech European headquarters (programming, IT, AI, finance, customer service), English-speaking, friendly people. Downsides: very high cost of living and rent in Dublin, rainy weather, intense competition. Income ~€3,100, living ~€1,000, rent €1,300–1,600.",
+    "#5 Germany: Stable jobs in engineering, automotive, tech, medicine, energy, IT and heavy industry, strong education and vocational training, top healthcare and infrastructure. Downsides: German essential for most jobs, cold rainy weather, slow administration. Income ~€3,000, living ~€1,000, rent €600–800.",
+    "#4 Norway: Rich from oil and energy, high welfare. Sectors: oil and gas, engineering, tech, maritime, public sector. Strong work-life balance, healthcare and education, high trust. Downsides: very high costs, long dark winters, Norwegian needed, a reserved society. Income ~€3,600, living ~€1,300, rent €1,000–1,300.",
+    "#3 Austria: Peaceful, clean, Alpine nature, a high standard of living, top healthcare and education. Sectors: tourism, engineering, industry, services, energy, government. Good work-life balance. Downsides: high Vienna rents, German vital, competitive in some fields. Income ~€2,600, living ~€1,100, rent €700–900.",
+    "#2 Switzerland: Economically and politically stable, among the highest salaries in the world. Sectors: banking, finance, insurance, engineering, pharma, tech, research. Great transport, work-life balance. Downsides: an exceptionally high cost of living, a reserved society, multiple languages (German, French, Italian), a very competitive job market. Income ~€6,500, living ~€1,500, rent €1,400–1,800.",
+    "#1 Finland: Ranked the happiest country for many years in a row, peaceful and fair, with a world-class education system focused on creativity and excellent work-life balance and mental-health care. Sectors: tech, telecom, education, engineering, clean energy. Downsides: long harsh winters, a very hard language, a quiet social life that can feel isolating, high costs in some cities relative to income. Income ~€2,700, living ~€1,000, rent €600–800."
+  ]
+},
+{
+  "id": 31,
+  "added": "2026-10-22",
+  "url": "https://youtu.be/KB_7X3iIHQ4",
+  "title": "I Asked Googlers How To Get Hired",
+  "author": "Namanh Kapur",
+  "category": "Career & Jobs",
+  "core": "Googlers interviewed at Google HQ (software engineers, engineering managers and a PM) explain how they got in and what successful candidates do. Their routes included an acquisition, internships converting to full-time roles, recruiter outreach and moving from other companies. The common advice is to communicate your thought process clearly, master the fundamentals (data structures, algorithms, system design), practise problems with LeetCode and Cracking the Coding Interview, build the solution step by step, think about scale and reliability, and communicate well with non-technical stakeholders.",
+  "points": [
+    "Ways in: joining through a startup acquisition (CloudSimple), the STEP or engineering practicum internship leading to a SWE internship, student researcher and returning-intern conversion, recruiter outreach after a year of conversations, and switching from companies like MathWorks or Cisco.",
+    "Most important in interviews: talk through your thought process clearly, so interviewers see how you approach an ambiguous problem and not just whether you solve it.",
+    "Prep used: LeetCode and Cracking the Coding Interview. Doing practice problems on your own beforehand definitely helps.",
+    "Interviewers dig into the core basics. Your fundamentals should be strong enough to work on anything at the advanced layer. 'Google values fundamentals.'",
+    "Data structures, algorithms and system design are no secret. The better you are at cracking them, the less reason Google has to reject you.",
+    "Build the solution slowly: clarify the bigger picture of the problem first, then come up with a working solution. Often you don't need a complicated one.",
+    "Think about reliability, scalability and long-term solutions for a large user base, not short-term small fixes.",
+    "Resume screen: put your best face forward. The resume is all they know about you, so include your best things so they want to talk to you.",
+    "Paths: college plus relevant internships is the easiest route. Bootcamps also work, and people starting at 35 or later can do it too.",
+    "One engineer noted that many people, including them, were hired during the 2021 pandemic over-hiring period.",
+    "Regret and advice: finding your passion early helps. Technical skills can be acquired later, even if you start late.",
+    "PM view: good PMs bridge technical constraints and possibilities with business requirements, framing them so business teams can sell them.",
+    "The most successful technical practitioners are also good at working with non-technical stakeholders. Communicating to people who know less than you is an under-rated skill needed to ship products.",
+    "Perks mentioned: free food (breakfast and lunch), international offices that let you work from other cities, team dinners, and strong support from colleagues plus a huge searchable internal documentation base."
+  ]
+},
+{
+  "id": 32,
+  "added": "2026-10-22",
+  "url": "https://youtu.be/ytK5M4S9WyU",
+  "title": "India's ₹19 Lakh Crore Plan to become The AI Capital of The World",
+  "author": "The Indian Insight",
+  "category": "System Design & Tech",
+  "core": "India isn't trying to build another ChatGPT. It is betting on becoming a global hub for the physical AI infrastructure (data centers, chips, servers, power) that AI depends on. It has the four things data centers need: huge demand from 1B+ internet users, skilled engineers, expanding (including renewable) power, and undersea cable connectivity, plus lower costs. Government tax holidays, state policies and hardware schemes are drawing tens of billions of dollars from Google, Amazon, Microsoft, Adani, Airtel, TCS and others. The payoff could be investment, jobs, local computing for Indian businesses and a $500–600B boost to GDP by 2035, though a lot still has to go right.",
+  "points": [
+    "Global AI spend could reach $4.7T a year by 2029. Google is set to spend ~$205B in 2026, Meta at least $130B on AI chips and infrastructure.",
+    "AI needs massive computing power: thousands of specialised chips running for months to train a model, and even more compute to serve millions of users.",
+    "Data centers need huge, reliable electricity, specialised cooling, fast fiber, backup generators and 24/7 security, so big tech secures capacity years in advance.",
+    "The US leads (OpenAI, Google, Microsoft, Amazon, Meta). China is pouring $295B into its data network. India wants to join by building the physical AI infrastructure rather than apps.",
+    "India's four advantages: (1) demand from 1B+ internet users and AI layered onto digital payments, shopping and streaming; (2) skilled workers from decades of IT services and hundreds of thousands of engineers a year; (3) expanding power, including fast-growing solar and wind (e.g. Meta's 900+ MW renewable deal with CleanMax near Jamnagar); (4) Mumbai and Chennai on undersea cable routes to Asia, the Middle East and Europe.",
+    "Building in India is much cheaper (construction, land, power, operations), which adds up over 20 years without giving up top engineers.",
+    "2026 Union Budget: a tax holiday until 2047 for eligible foreign companies serving global cloud customers from Indian data centers, plus a proposed 15% safe-harbour rule for tax certainty.",
+    "Sep 2026: the Commerce Ministry convened cloud firms, investors and 8 states on faster approvals, land and renewable access.",
+    "States compete: Telangana has a dedicated 1,500-acre data center zone. Uttar Pradesh's 2026 policy targets ₹2 lakh crore+ through land subsidies and lower electricity taxes. Maharashtra gives incentives near undersea cables.",
+    "Hardware: the IndiaAI Mission (₹10,000 crore+) gives startups, students and researchers access to high-end AI chips. A ₹40,000 crore PLI scheme covers servers, laptops and PCs. Semicon 2.0 plans ₹1.27 lakh crore+ for chip fabs.",
+    "Data center capacity went from 375 MW (2020) to over 1.5 GW (Aug 2026), projected at ~8 GW by 2030. The industry could draw ~$200B in investment.",
+    "Big tech: Google $15B (2026–30) for a gigawatt-scale AI hub in Visakhapatnam with a new undersea cable. Amazon another $13B by 2030 (total $48B). Microsoft $17.5B (2026–29).",
+    "Indian players: Adani $100B by 2035 including 5 GW of mostly renewable AI data centers. Airtel's Nextra raised $1B to grow from ~300 MW to 1 GW. AirTrunk ~$30B proposed for 5 GW. TCS HyperVault plans a 1 GW campus in Telangana (₹70,000 crore).",
+    "Customers: OpenAI partnered with TCS HyperVault for 100 MW, scalable to 1 GW. Meta is leasing a 168 MW AI data center that Reliance is building in Jamnagar. Yotta is bringing 20,736 Nvidia Blackwell Ultra chips ($2B+).",
+    "Benefits: money flows to construction, power, equipment and engineering firms, plus jobs and taxes (Google's Vizag hub is expected to generate ~₹10,000 crore for Andhra Pradesh and thousands of jobs).",
+    "Local computing lets startups, banks (fraud detection), telecom, factories, hospitals and logistics firms use AI faster and with less delay, without renting compute abroad.",
+    "If India also builds its own chips and servers, it could move from using infrastructure to making it. NITI Aayog estimates AI adoption could add $500–600B to the economy by 2035.",
+    "AI is early, and for once India has a chance to be there from the start, but a lot still has to go right."
+  ]
+},
+{
+  "id": 33,
+  "added": "2026-10-22",
+  "url": "https://youtu.be/jlH_t_b0I-M",
+  "title": "Asking Black Millionaires How They Got Rich! (Atlanta)",
+  "author": "School of Hard Knocks",
+  "category": "Finance & Investing",
+  "core": "School of Hard Knocks cold-approaches wealthy people in Atlanta, which has 11,000+ Black millionaires and the highest concentration of them of any US city. Former NBA player Tyrone Hill, pastor Philip Anthony Mitchell, business consultant Dr. Sonya Stribling and a law-firm owner share how they built wealth and what they'd advise. The recurring themes are consistency, careful planning over impulsive moves, surrounding yourself with successful people, character and integrity, building a personal brand, deciding under pressure, calculated risk, never acting out of fear or desperation, valuing time freedom, and starting now.",
+  "points": [
+    "Tyrone Hill (ex-NBA, first million at 24, career earnings over $30M, didn't grow up with money): be consistent in your craft; hard work plus faith brings good things.",
+    "Hill's money advice: say no to friends and family, invest only in your own business, and avoid business partners.",
+    "Hill: surround yourself with people doing better than you. Don't act spontaneously or impulsively on ideas others bring; think it through and have a game plan.",
+    "Hill: don't rush. Have a plan, and leave things in a trust or will for your kids and family.",
+    "Philip Anthony Mitchell (pastor of 28:19 church, private investments, son of Trinidadian immigrants): went from poverty, selling crack at 12 and Rikers Island at 18 to a transformed life after a faith experience.",
+    "Mitchell: God isn't against wealth (Abraham, Solomon, David), only against wealth taking your heart. 'The love of money', not money itself, is the root of evil. Be a faithful steward.",
+    "Mitchell's business lesson: the best businessmen have character and integrity, not just wealth. Don't only care about the bottom line; treat people well, especially those under you. Nobody gets to the top alone.",
+    "Mitchell overcame his toughest struggle (lust and pornography) through accountability, scripture and a desire to honour God. His final message: trust God and leave the consequences to Him.",
+    "Dr. Sonya Stribling (55, business consultant, $15M best year, parents a housekeeper and a sharecropper, 21 years in the US Army including 15 months in Iraq as a battle captain): her turning point was saying yes to her next level and using her experience to help other business owners.",
+    "Stribling: many businesses fail because they wait for funding. She started one that needed no funding, just her stepping up and using her voice.",
+    "Stribling on sales: create an environment where people want to buy by being authentic, sharing your life and connecting with the audience. She made $2.1M in one hour from a stage 'revenue talk'.",
+    "Stribling: the military taught discipline and making decisions under pressure. Make the best decision in the moment, don't fixate on the outcome or perfection, just get it done.",
+    "Stribling: the richest people share a confidence no one gave them, because they know rock bottom. Sales and marketing are twins.",
+    "Stribling's marketing: be your own brand rather than hiding behind the business brand (citing Gary Vaynerchuk on personal brands).",
+    "Stribling's networking tip: when you meet a millionaire, ask what they're working on and how you can support it, instead of pitching your ideas.",
+    "Stribling: school teaches you to work for someone else, not sales, marketing or personal branding. 'Don't borrow' advice (Suze Orman, Dave Ramsey) is for broke-minded people; she is a calculated risk-taker who borrows to build. Final message: start right now and don't let others project their fears onto you.",
+    "Law-firm owner (46, founded 2021, best year over $5M): never make decisions out of fear or desperation, only out of love and faith. Desperate people lose leverage in business and life.",
+    "Her partner: she believed in her position years before she was successful. Choosing the right life partner is everything.",
+    "Her book pick: Think and Grow Rich. The trait the most successful people share is control of their time; money isn't wealth if you lack time for the people and things you love. Final message: trust yourself, be yourself, and it will happen in your own time.",
+    "Note: the video includes promotions for the creator's paid School of Mentors community."
+  ]
 }
 ];
 
-window.LAST_UPDATED="2026-10-22T14:09:00+05:30";
+window.LAST_UPDATED="2026-10-22T10:01:00+05:30";
