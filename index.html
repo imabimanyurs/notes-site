@@ -1,0 +1,128 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>YouTube Notes</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#0a0c11;--panel:#10131a;--card:#151922;--line:#222737;--txt:#eceef3;--mut:#8b93a7;--acc:#7c93ff;--hov:#1c2232;--sel:#232b47;--core:#192036;--sh:0 12px 32px #0007}
+[data-theme=light]{--bg:#f6f7fb;--panel:#ffffff;--card:#ffffff;--line:#e4e7ef;--txt:#161a23;--mut:#5f6778;--acc:#4f6bff;--hov:#f0f2f8;--sel:#e8ecff;--core:#eef1ff;--sh:0 12px 28px #1a224018}
+body{transition:background .2s,color .2s}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--txt);font:15px/1.6 Inter,system-ui,sans-serif}
+.app{display:flex;min-height:100vh}
+aside{width:230px;background:var(--panel);border-right:1px solid var(--line);padding:20px 14px;position:sticky;top:0;height:100vh;overflow:auto;flex-shrink:0}
+aside h1{font-size:18px;margin:0 6px 18px}.nav a,.cat a{display:flex;justify-content:space-between;padding:8px 10px;border-radius:8px;color:var(--mut);text-decoration:none;cursor:pointer;font-size:14px}
+.nav a:hover,.cat a:hover{background:var(--hov);color:var(--txt)}.nav a.on,.cat a.on{background:var(--sel);color:var(--txt);font-weight:600}.nav a span,.cat a span{font-size:12px;opacity:.7}
+aside h4{font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:#5d6578;margin:20px 10px 6px}
+.sync{margin:20px 10px 0;font-size:12px;color:var(--mut)}.sync b{color:#4ade80}
+main{flex:1;padding:28px clamp(16px,2.5vw,40px);min-width:0}
+.top{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-bottom:18px}
+.top input{flex:1;min-width:200px;padding:11px 14px;border-radius:10px;border:1px solid var(--line);background:var(--card);color:var(--txt);font:inherit;outline:none}.top input:focus{border-color:var(--acc)}
+select,.btn{padding:10px 12px;border-radius:10px;border:1px solid var(--line);background:var(--card);color:var(--txt);font:inherit;cursor:pointer}
+.btn.on{background:var(--acc);border-color:var(--acc);color:#fff}
+kbd{font-size:11px;border:1px solid var(--line);border-radius:4px;padding:1px 5px;color:var(--mut)}
+.head{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:12px}.head h2{margin:0;font-size:26px;letter-spacing:-.02em}.head span{color:var(--mut);font-size:13px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,290px),1fr));gap:clamp(14px,1.4vw,22px)}@media(min-width:1700px){.grid{grid-template-columns:repeat(auto-fill,minmax(320px,1fr))}}
+.list{display:flex;flex-direction:column;gap:10px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden;cursor:pointer;transition:.18s;position:relative}
+.card:hover{transform:translateY(-4px);border-color:var(--acc);box-shadow:var(--sh)}
+.thumb{aspect-ratio:16/9;display:flex;align-items:flex-end;padding:12px;font-weight:700;font-size:15px;color:#fff;background-size:cover;background-position:center;position:relative}
+.thumb:after{content:"▶";position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:44px;height:44px;border-radius:50%;background:#0008;display:flex;align-items:center;justify-content:center;font-size:16px}
+.body{padding:14px 16px 18px}.tag{font-size:11px;font-weight:600;color:var(--acc);text-transform:uppercase;letter-spacing:.05em}
+.card h3{margin:6px 0 8px;font-size:16px;line-height:1.35;letter-spacing:-.01em}.tl{color:var(--mut);font-size:13.5px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;margin:0}
+.star{position:absolute;top:8px;right:8px;background:#000a;border:0;color:#fff;border-radius:8px;padding:4px 8px;cursor:pointer;font-size:15px;z-index:2}.star.on{color:#facc15}
+.list .card{display:flex}.list .thumb{width:200px;aspect-ratio:16/9;flex-shrink:0;font-size:12px}.list .body{flex:1}
+.pager{display:flex;gap:6px;justify-content:center;margin:24px 0}.empty{color:var(--mut);padding:40px;text-align:center}
+.ov{position:fixed;inset:0;background:#000b;display:none;align-items:flex-start;justify-content:center;padding:6vh 16px;z-index:10;overflow:auto}.ov.show{display:flex}
+.modal{background:var(--panel);border:1px solid var(--line);border-radius:16px;max-width:720px;width:100%;padding:28px;position:relative}
+.modal h2{margin:6px 0 4px;font-size:24px}.modal .meta{color:var(--mut);font-size:13px;margin-bottom:16px}
+.core{background:var(--core);border-left:3px solid var(--acc);padding:12px 16px;border-radius:8px;margin:12px 0 18px}
+.modal li{margin:6px 0}.x{position:absolute;top:14px;right:16px;line-height:1;background:none;border:0;color:var(--mut);font-size:22px;cursor:pointer}
+.pal{max-width:560px;padding:0;overflow:hidden}.pal input{width:100%;padding:16px 18px;border:0;border-bottom:1px solid var(--line);background:transparent;color:var(--txt);font:inherit;font-size:16px;outline:none}
+.pal .it{padding:10px 18px;cursor:pointer;display:flex;justify-content:space-between;font-size:14px}.pal .it.sel{background:var(--sel)}.pal .it small{color:var(--mut)}
+.menu{display:none}.watch{display:inline-block;margin-top:10px;font-size:12.5px;font-weight:600;color:#fff;background:#e11d48;padding:5px 10px;border-radius:8px;text-decoration:none}.watch:hover{background:#be123c}.list .card{min-height:120px}.card{display:flex;flex-direction:column}.grid .body{flex:1}.hero{display:none;background:linear-gradient(135deg,#4f46e5,#7c3aed 60%,#db2777);color:#fff;border-radius:18px;padding:26px 28px;margin-bottom:22px}.hero.show{display:block}.hero h3{margin:0 0 6px;font-size:22px}.hero p{margin:0;opacity:.9}.chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px}.chips a{background:#fff3;color:#fff;padding:5px 12px;border-radius:20px;font-size:13px;cursor:pointer}.chips a:hover{background:#fff5}
+html,body{overflow-x:hidden}body.lock{overflow:hidden;position:fixed;width:100%}
+.scrim{display:none}
+@media(max-width:800px){
+aside{position:fixed;left:-270px;width:260px;z-index:20;transition:left .22s;box-shadow:var(--sh)}aside.open{left:0}
+.scrim.show{display:block;position:fixed;inset:0;background:#0008;z-index:19}
+.menu{display:block}main{padding:14px 14px 28px;width:100%}
+.top{display:grid;grid-template-columns:44px 1fr;gap:8px}.menu{width:44px;padding:9px 0}
+.top input{min-width:0;width:100%;grid-column:2;font-size:16px;padding:10px 12px}
+.top .pk{display:none}
+.top select{grid-column:1/2;grid-row:2}
+.top .vw{grid-row:2}
+.vwrap{display:flex;gap:8px;grid-column:1/3;grid-row:2;justify-self:end}
+.top select{grid-column:1/3;grid-row:2;justify-self:start;width:auto}
+.btn,select{padding:9px 11px;font-size:14px}
+.head h2{font-size:21px}
+.grid{grid-template-columns:1fr;gap:14px}
+.hero{padding:18px;border-radius:14px}.hero h3{font-size:18px}.hero p{font-size:14px}
+.chips a{font-size:12px;padding:4px 10px}
+.list .card{flex-direction:row}.list .thumb{width:110px;font-size:0;padding:0}.list .thumb:after{width:30px;height:30px;font-size:11px}.list .body{padding:10px 12px}.list .tl{-webkit-line-clamp:2}
+#ov.ov{padding:0;display:none;align-items:flex-start;background:var(--panel);overscroll-behavior:contain;-webkit-overflow-scrolling:touch}#ov.ov.show{display:block}#md.modal{border:0;border-radius:0;padding:0 18px 40px;min-height:100%;height:auto;max-width:none;background:var(--panel)}.modal h2{font-size:20px}.x{position:sticky;top:0;float:right;margin:0 -18px 0 0;padding:12px 18px;background:var(--panel);z-index:2;font-size:26px}#md .tag{padding-top:18px;display:block}
+.pal{min-height:auto;border-radius:0 0 14px 14px}
+.pager{flex-wrap:wrap}
+}
+</style></head><body><div class="app">
+<aside id="side"><h1>📝 YouTube Notes</h1>
+<div class="nav" id="nav"></div><h4>Categories</h4><div class="cat" id="cats"></div>
+<div class="sync" id="sync"></div><button class="btn" id="th" style="margin:14px 10px;width:calc(100% - 20px)" onclick="toggleTheme()"></button></aside>
+<main><div class="top"><button class="btn menu" onclick="sideOpen(true)">☰</button>
+<input id="q" placeholder="Search titles, ideas, key points…"><button class="btn pk" onclick="openPal()">⌘K</button>
+<select id="sort"><option value="new">Newest</option><option value="old">Oldest</option><option value="az">Title A–Z</option><option value="za">Title Z–A</option></select>
+<div class="vwrap"><button class="btn" id="bg" onclick="setView('grid')">▦ Grid</button><button class="btn" id="bl" onclick="setView('list')">☰ List</button></div></div>
+<div class="head"><h2 id="ttl"></h2><span id="cnt"></span></div>
+<div class="hero" id="hero"></div><div id="out"></div><div class="pager" id="pager"></div></main></div>
+<div class="scrim" id="scrim" onclick="sideOpen(false)"></div><div class="ov" id="ov" onclick="if(event.target==this)closeAll()"><div class="modal" id="md"></div></div>
+<div class="ov" id="po" onclick="if(event.target==this)closeAll()"><div class="modal pal"><input id="pi" placeholder="Jump to a note, category, or view…"><div id="pl"></div></div></div>
+<script src="notes.js?v=11"></script><script>
+const $=id=>document.getElementById(id),PER=12,COLORS=["#4f46e5,#9333ea","#0ea5e9,#2563eb","#f43f5e,#f97316","#10b981,#0d9488","#eab308,#f97316","#8b5cf6,#ec4899"];
+let S={nav:"all",cat:null,view:localStorage.view||"grid",page:1},fav=new Set(JSON.parse(localStorage.fav||"[]"));
+NOTES.forEach((n,i)=>{n.id=n.id||i+1;n.added=n.added||'2026-10-22';n.points=n.points||[];n.core=n.core||'';n.author=n.author||''});
+const cats=[...new Set(NOTES.map(n=>n.category))].sort();
+const esc=s=>String(s||"").replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const tldr=n=>n.tldr||(n.core.match(/^.*?[.!?](\s|$)/)||[n.core])[0];
+const yt=u=>{const m=(u||"").match(/(?:v=|youtu\.be\/|shorts\/)([\w-]{11})/);return m&&m[1]};
+const col=n=>COLORS[cats.indexOf(n.category)%COLORS.length];
+function thumb(n){const id=yt(n.url);return id?`<div class="thumb" style="background-image:linear-gradient(transparent 50%,#000c),url(https://i.ytimg.com/vi/${id}/hqdefault.jpg)"></div>`:`<div class="thumb" style="background:linear-gradient(135deg,${col(n)})">${esc(n.category)}</div>`}
+function filtered(){const t=$('q').value.toLowerCase().trim();let a=NOTES.filter(n=>{
+ if(S.nav=="fav"&&!fav.has(n.id))return false;if(S.cat&&n.category!=S.cat)return false;
+ return !t||[n.title,n.author,n.category,n.core,...n.points].join(" ").toLowerCase().includes(t)});
+ const s=$('sort').value;a.sort((x,y)=>s=="az"?x.title.localeCompare(y.title):s=="za"?y.title.localeCompare(x.title):s=="old"?(x.added.localeCompare(y.added)||x.id-y.id):(y.added.localeCompare(x.added)||y.id-x.id));
+ if(S.nav=="recent"){a.sort((x,y)=>y.id-x.id);a=a.slice(0,6)}return a}
+function drawSide(){const navs=[["home","🏠 Home",NOTES.length],["all","📚 All Notes",NOTES.length],["fav","⭐ Favorites",fav.size],["recent","🕒 Recently Added",Math.min(6,NOTES.length)]];
+ $('nav').innerHTML=navs.map(([k,l,c])=>`<a class="${S.nav==k&&!S.cat?'on':''}" onclick="go('${k}')">${l}<span>${c}</span></a>`).join("");
+ $('cats').innerHTML=cats.map(c=>`<a class="${S.cat==c?'on':''}" onclick="goCat('${esc(c)}')">${esc(c)}<span>${NOTES.filter(n=>n.category==c).length}</span></a>`).join("");
+ const d=new Date(window.LAST_UPDATED||Date.now());$('sync').innerHTML=`<b>●</b> Synced · ${NOTES.length} notes<br>Last updated ${d.toLocaleString([], {dateStyle:'medium',timeStyle:'short'})}`}
+function card(n){return `<div class="card" onclick="openNote(${n.id})"><button class="star ${fav.has(n.id)?'on':''}" onclick="event.stopPropagation();toggleFav(${n.id})">${fav.has(n.id)?'★':'☆'}</button>${thumb(n)}<div class="body"><div class="tag">${esc(n.category)}</div><h3>${esc(n.title)}</h3><p class="tl">${esc(tldr(n))}</p>${yt(n.url)?`<a class="watch" href="${esc(n.url)}" target="_blank" onclick="event.stopPropagation()">▶ Watch on YouTube</a>`:""}</div></div>`}
+function render(){drawSide();$('bg').classList.toggle('on',S.view=="grid");$('bl').classList.toggle('on',S.view=="list");
+ const a=filtered(),pages=Math.max(1,Math.ceil(a.length/PER));S.page=Math.min(S.page,pages);
+ $('ttl').textContent=S.cat||{home:"Home",all:"All Notes",fav:"Favorites",recent:"Recently Added"}[S.nav];$('cnt').textContent=a.length+" note"+(a.length==1?"":"s");
+ $('hero').className='hero'+(S.nav=='home'&&!S.cat&&!$('q').value?' show':'');$('hero').innerHTML=`<h3>Your YouTube knowledge base</h3><p>${NOTES.length} condensed notes across ${cats.length} categories. Press ⌘K to jump anywhere.</p><div class=chips>${cats.map(c=>`<a onclick="goCat('${esc(c)}')">${esc(c)}</a>`).join('')}</div>`;
+ const sl=a.slice((S.page-1)*PER,S.page*PER);
+ $('out').className=S.view;$('out').innerHTML=sl.map(card).join("")||`<div class="empty">${S.nav=="fav"?"No favorites yet. Tap ☆ on a note to save it.":"No notes match."}</div>`;
+ $('pager').innerHTML=pages>1?Array.from({length:pages},(_,i)=>`<button class="btn ${i+1==S.page?'on':''}" onclick="S.page=${i+1};render();scrollTo(0,0)">${i+1}</button>`).join(""):""}
+function sideOpen(o){$('side').classList.toggle('open',o);$('scrim').classList.toggle('show',o)}
+function go(k){S.nav=k;S.cat=null;S.page=1;sideOpen(false);render()}
+function goCat(c){S.cat=c;S.nav="all";S.page=1;sideOpen(false);render()}
+function setView(v){S.view=localStorage.view=v;render()}
+function toggleFav(id){fav.has(id)?fav.delete(id):fav.add(id);localStorage.fav=JSON.stringify([...fav]);render();if($('ov').classList.contains('show'))openNote(id)}
+function openNote(id){const n=NOTES.find(x=>x.id==id);$('md').innerHTML=`<button class="x" onclick="closeAll()">×</button><div class="tag">${esc(n.category)}</div><h2>${esc(n.title)}</h2>
+ <div class="meta">${n.author?esc(n.author)+" · ":""}Added ${n.added}${n.url?` · <a class="watch" style="margin:0" href="${esc(n.url)}" target="_blank">▶ Watch on YouTube</a>`:""}</div>
+ <button class="btn ${fav.has(n.id)?'on':''}" onclick="toggleFav(${n.id})">${fav.has(n.id)?'★ Favorited':'☆ Add to favorites'}</button>
+ <div class="core"><b>Core idea</b><br>${esc(n.core)}</div><b>Key points</b><ul>${n.points.map(p=>`<li>${esc(p)}</li>`).join("")}</ul>`;$('ov').classList.add('show');$('ov').scrollTop=0;lock(true);location.hash="note-"+id}
+let sy=0;function lock(o){if(o&&!document.body.classList.contains('lock')){sy=scrollY;document.body.style.top=-sy+'px';document.body.classList.add('lock')}else if(!o&&document.body.classList.contains('lock')){document.body.classList.remove('lock');document.body.style.top='';scrollTo(0,sy)}}
+function closeAll(){lock(false);$('ov').classList.remove('show');$('po').classList.remove('show');if(location.hash)history.replaceState(null,"",location.pathname)}
+let pitems=[],psel=0;
+function openPal(){$('po').classList.add('show');$('pi').value="";pal();setTimeout(()=>$('pi').focus(),10)}
+function pal(){const t=$('pi').value.toLowerCase();const all=[...[["home","Home"],["all","All Notes"],["fav","Favorites"],["recent","Recently Added"]].map(([k,l])=>({l,k:"View",f:()=>go(k)})),
+ ...cats.map(c=>({l:c,k:"Category",f:()=>goCat(c)})),...NOTES.map(n=>({l:n.title,k:n.category,s:n.core+n.points.join(" "),f:()=>openNote(n.id)}))];
+ pitems=all.filter(i=>!t||(i.l+" "+(i.s||"")).toLowerCase().includes(t)).slice(0,10);psel=0;drawPal()}
+function drawPal(){$('pl').innerHTML=pitems.map((i,j)=>`<div class="it ${j==psel?'sel':''}" onclick="runPal(${j})"><span>${esc(i.l)}</span><small>${esc(i.k)}</small></div>`).join("")||'<div class="it"><small>No results</small></div>'}
+function runPal(j){const i=pitems[j];$('po').classList.remove('show');i&&i.f()}
+$('pi').oninput=pal;$('pi').onkeydown=e=>{if(e.key=="ArrowDown"){psel=Math.min(psel+1,pitems.length-1);drawPal();e.preventDefault()}else if(e.key=="ArrowUp"){psel=Math.max(psel-1,0);drawPal();e.preventDefault()}else if(e.key=="Enter")runPal(psel)};
+document.onkeydown=e=>{if((e.metaKey||e.ctrlKey)&&e.key.toLowerCase()=="k"){e.preventDefault();openPal()}else if(e.key=="Escape")closeAll();else if(e.key=="/"&&document.activeElement.tagName!="INPUT"){e.preventDefault();$('q').focus()}};
+$('q').oninput=()=>{S.page=1;render()};$('sort').onchange=render;
+function applyTheme(){const t=localStorage.theme||(matchMedia('(prefers-color-scheme: light)').matches?'light':'dark');document.documentElement.dataset.theme=t;$('th').textContent=t=='dark'?'☀️ Light mode':'🌙 Dark mode'}
+function toggleTheme(){localStorage.theme=document.documentElement.dataset.theme=='dark'?'light':'dark';applyTheme()}
+applyTheme();if(innerWidth<800)$('q').placeholder='Search notes…';
+render();const h=location.hash.match(/note-(\d+)/);if(h)openNote(+h[1]);
+</script></body></html>
