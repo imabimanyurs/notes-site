@@ -169,7 +169,161 @@ window.NOTES = [
     "Don't settle: You deserve people who nurture, support, and believe in you the way you show up for them, not the bare minimum.",
     "Bottom line: Give to yourself first. People who stayed only for what you provide were holding you back, so let them go and let them miss out."
   ]
+},
+{
+  "id": 21,
+  "added": "2026-10-22",
+  "url": "https://youtu.be/6jLjw_I_XXk",
+  "title": "Is Moving to the USA Still Worth It in 2026? (Reality Check)",
+  "author": "Nishant Chahar",
+  "category": "Immigration & Abroad",
+  "core": "The US can still pay off for top earners and people transferred by their employer. For the average Indian who takes a loan for a master's, rising H-1B and OPT risk and green-card waits make it a lottery. Dubai, or selling a skill or product, can save as much with less risk.",
+  "points": [
+    "Two common routes: Do a master's (F-1 → OPT → H-1B lottery), or get an L-1 transfer from companies like Google, Microsoft, or Amazon and then try for the H-1B.",
+    "Master's cost: About $60–100k for 1-year MS programmes and $80–160k for 2-year ones, and up to $250k for a top MBA without a scholarship.",
+    "US math, median California engineer: About $175k rising to $212k, 33.5–34.3% tax, and roughly $61–62k a year in living costs. Over 6 years that saves about ₹2.4–2.8 cr in cash. After repaying a master's (about $145k plus interest) it's about $250k, versus about $380–390k on a transfer.",
+    "Big offers are misleading: A $250–300k headline is like a 48 LPA Microsoft fresher package, which was about ₹16 lakh in hand in the first year. The rest was RSUs and joining bonus.",
+    "What changed: The H-1B lottery now weights higher salaries (up to 4 entries) from FY2027, and registrations fell about 38.5% to around 200k. There's a $100k fee for applicants abroad, OPT grace periods may shrink, and L-1 holders must leave if laid off.",
+    "Green card is effectively closed: NFAP's Aug 2026 report estimates an Indian filing now could wait up to 179 years (EB-2) or 38 years (EB-3), with about 1 million in the queue. Plan to earn for about 6 years and return, unless you qualify for O-1 or EB-1.",
+    "Dubai alternative: Tech roles (Noon, Talabat, Deliveroo, AI companies) start around AED 20k and rise to 38–40k a month, tax-free. Living costs are about AED 130k a year, and a 30k+ salary after 2 years can get you a golden visa. A good tech job could save about ₹4.2–4.3 cr, comparable to the US.",
+    "Rule of thumb: Below about AED 20k (or if you'd earn about ₹2 lakh a month in India), stay in India. Freelancers and product builders should move to the UAE only if they save about $7.5–8k a month or more. Otherwise India's presumptive-tax rules make staying better.",
+    "Advice: Students shouldn't stress over the American dream. Become a polymath with deep skill in one area plus connected skills."
+  ]
+},
+{
+  "id": 22,
+  "added": "2026-10-22",
+  "url": "https://youtu.be/rLGEn4Plq8g",
+  "title": "I Walked 10,000 Steps a Day for 90 Days: Here's What Happened",
+  "author": "Digital Jada",
+  "category": "Health & Fitness",
+  "core": "Daily steps, more than gym sessions, broke her weight-loss plateau. Walking 10k steps raises your activity level, so your deficit allows more calories, and it's low-impact, so it doesn't spike hunger.",
+  "points": [
+    "Plateau fix: After losing 20 lb of an eventual 40 lb, her deficit had shrunk with her smaller body. Instead of dropping to 1,100–1,200 calories, she raised her activity.",
+    "Gym ≠ active: Under about 3,000 steps a day counts as sedentary, even if you lift 4–6 times a week, because the gym is only an hour of your day.",
+    "Calculator honesty: In TDEE calculators, pick your activity level by step count plus training sessions. Lifting 5 times a week is not 'athlete'. Two people with identical stats get different deficits purely from activity level.",
+    "Why walking works: It's low-impact steady-state cardio that doesn't spike hunger like HIIT or tire-flipping classes, which matters when you're low on energy in a deficit.",
+    "Power hour: She walked about an hour on the treadmill each morning at 3.3–3.7 speed for 7,500–8,000 steps, then finished the rest through the day. To make it pass faster, split it into segments (YouTube, music, work on a laptop).",
+    "Build up gradually: If you're at about 1,000 steps, double it first (e.g. 3–4k) rather than jumping straight to 10k. 10k takes her about 1–1.5 hours a day, and you can walk while scrolling.",
+    "Consistency hacks: Join an accountability group or challenge (hers is a 12-week group with weekly Zoom calls) and keep gym clothes organised on their own rack.",
+    "Still needed: A calorie deficit, weekly meal prep, and weight training to keep or rebuild muscle. Steps aren't magic, but they let you eat more while losing fat."
+  ]
+},
+{
+  "id": 23,
+  "added": "2026-10-22",
+  "url": "https://youtu.be/kjVhmF15R0A",
+  "title": "The Fastest Way to Get Fluent in German (Just Copy It)",
+  "author": "Alyona",
+  "category": "Languages",
+  "core": "About 3,000 high-frequency words cover 95% of everyday spoken German. To actually speak, learn them by frequency, practise them with active recall through reusable patterns, and absorb them through comprehensible input. Compound words then multiply your vocabulary.",
+  "points": [
+    "Zipf's law: A tiny number of words dominates speech, so about 3,000 words is enough for 95% of everyday German. At 10 words a day, that's about a year.",
+    "Knowing ≠ using: Rereading words keeps them passive, like watching workout videos without training. Use active recall to pull words from memory.",
+    "Learn patterns, not lists: E.g. Ich habe Lust auf … (Pizza / einen Kaffee / Urlaub; keine Lust auf Sport). One pattern covers thousands of situations.",
+    "Patterns automate cases: Drill phrases like Ich helfe meinem Freund / meiner Freundin / dir so the dative comes automatically instead of stopping to work out the rule mid-conversation.",
+    "Comprehensible input: Choose content that's challenging but mostly understandable (at B1, Das Kapital was far too hard). Shows with tap-to-translate subtitles help, such as the sponsor Lingopie with Netflix and Disney.",
+    "Frequency first: Learn common words (anschauen) before rare ones (Kraftfahrzeugzulassungsstelle).",
+    "Compounding is a cheat code: Long words are built from short ones (Handschuh, Krankenhaus, Geburtstag + Geschenk = Geburtstagsgeschenk). You can even build your own and people will understand you.",
+    "Bottom line: You don't need 10,000 words, just the right words learned the right way."
+  ]
+},
+{
+  "id": 24,
+  "added": "2026-10-22",
+  "url": "https://youtu.be/5iSXV-Ucvjk",
+  "title": "How to Use Fair Value Gaps (FVG) and Liquidity While Trading",
+  "author": "PJ Trades",
+  "category": "Finance & Investing",
+  "core": "A futures trader breaks down a $13k NASDAQ short. He waited out the manipulative open, read bearish fair value gaps as resistance, picked a draw on liquidity where a gap fill and an overnight low lined up, and entered on a 30-second model with the trend.",
+  "points": [
+    "Start on the daily chart: After several strongly bullish days, expect a pullback into the daily fair value gap (FVG). Markets like to rebalance imbalances, so an FVG can act as a draw on liquidity.",
+    "Skip the first 15 minutes: The open is very manipulative. An early bullish inversion and a tag of the midnight opening price trapped buyers before price dumped.",
+    "Midnight opening price: Mark it as a key level, because price reacts strongly to it.",
+    "Key level of the day: An unmitigated 15-minute bullish FVG from the prior day (price never came back to fill it). Either price V-shapes from it, or it closes aggressively through it to make lower lows, which signals shorts.",
+    "Respected FVGs = resistance: Repeated 1-minute sell-side imbalances that price wicks into but never flips show bears are in control. No strong V-shapes means bearish order flow.",
+    "Pick the draw on liquidity: A full 1-hour gap fill lining up with the overnight low (within about 30 points) gives a high-confluence target.",
+    "Execution: Enter on a 30-second inversion model (he front-ran it), risk 23 points, and move the stop to breakeven at the next new low. The trade was done by 10 a.m. An accidental extra contract made it bigger.",
+    "Trade the trend: Trending days are where the year's money is made, so maximise them. Consolidation means chop, breakevens, and partials."
+  ]
+},
+{
+  "id": 25,
+  "added": "2026-10-22",
+  "url": "https://youtu.be/MTt0CeDNvKE",
+  "title": "How to Become an AI Engineer: 12-Week Roadmap + Free Resources",
+  "author": "Jam With AI (Shirin Khosravi Jam)",
+  "category": "System Design & Tech",
+  "core": "A 12-week, project-based roadmap for applied AI engineering (building on foundation-model APIs, not LLM infrastructure). It covers software basics, LLM understanding, RAG, production APIs and deployment, agents and memory, MCP, and voice agents with LLMOps, using free resources and four projects.",
+  "points": [
+    "Scope: Applied AI engineering means chatbots, document assistants, agents, MCP tools, evals, and operations. LLM infra (self-hosting, fine-tuning, vLLM, Kubernetes) is a separate track. Go deep in one.",
+    "Week 1: Python (via uv), Git and GitHub, HTTP, JSON, and status codes, plus unit and integration tests. Project 1 is a news summarizer: read articles from CSV with pandas and summarize them with an OpenAI call.",
+    "Week 2: CI with GitHub Actions. ML basics are optional, but learn leakage, over- and underfitting, bias-variance, and precision/recall for evaluation.",
+    "Week 3: SQL (SQLBolt) and local PostgreSQL to store the summaries. Use AI to help, but make sure you can explain every change.",
+    "Weeks 4–5: Understand LLMs with Karpathy's intro (weights, training, inference) and Hugging Face chapters on transformers, tokens, embeddings, and context windows. Optionally try a small LoRA fine-tune with Unsloth, and know prompt vs context vs training.",
+    "Week 6: RAG ('not dead'). Load, chunk, embed, store, and retrieve with hybrid keyword + vector search (pgvector works). Evaluate retrieval and generation separately. Project 2 is a small RAG assistant.",
+    "Weeks 7–9: FastAPI (validation, async, auth vs authorization, dependency injection, migrations), Docker and a Cloud Run, AWS, or Azure deploy (secrets, logs, health checks, timeouts, cost limits), and CD with AI eval checks before release.",
+    "Weeks 10–11: Project 3 is a production-grade agentic system. Learn agent memory, including long-term per-user memory, MCP (freeCodeCamp and Hugging Face courses), and AI system-design patterns like caching and rate limiting.",
+    "Week 12: Project 4 is voice agents plus LLMOps and observability, using her open-source observable job agent. API and cloud usage can cost money, so set budgets."
+  ]
+},
+{
+  "id": 26,
+  "added": "2026-10-22",
+  "url": "https://youtu.be/ibpUOklYBoI",
+  "title": "India to Netherlands Journey ft. Himanshu: Netherlands Work Permit",
+  "author": "Eurodreams",
+  "category": "Immigration & Abroad",
+  "core": "A Salesforce architect explains how he moved from India to the Netherlands through LinkedIn applications and an employer-sponsored work permit. He covers the 30% ruling, the interview and visa process, work culture, and real salary and living costs.",
+  "points": [
+    "Why the Netherlands: After working in South Africa and returning to India, he researched Europe and shortlisted the Netherlands and Germany. He got offers from both and chose the Netherlands because most people speak good English, so there's little language barrier.",
+    "30% ruling: Eligible skilled migrants get 30% of salary tax-free, so tax applies only to 70% (e.g. on €10k, tax applies to €7k). It's a big draw for expats.",
+    "How he applied: Through LinkedIn Jobs filtered to the Netherlands, with about 2,200 applications and many rejections, often because of Dutch. International companies, and even some Dutch ones, hire English speakers.",
+    "Employer sponsors you: You can't get the permit yourself from India. The company handles the visa (no charge to you). His also paid the flight and the first week's accommodation.",
+    "Process: Roughly 3–4 rounds (HR, technical, manager, then offer and negotiation). The offer came within about 15–20 days and everything was done in about a month. No proof of funds or visa interview, just fingerprints. The highly-skilled-migrant salary threshold is around €42k.",
+    "Work culture: 5-day week, 8-hour days with no extra hours, flexible start times, and a hybrid model with office visits about once or twice a week. Trust and quality of work matter a lot.",
+    "Money: Gross about €70k gives about €4k a month in hand. Living costs are about €2k a month single (his own apartment is about €2k; sharing is about €1–1.5k with utilities) and about €3k with family. It's very expensive, but services like public transport give you value for what you pay.",
+    "Advice: Keep applying in your field on LinkedIn despite strict ATS rejections. It's an especially good option for singles and bachelors who want to explore European work culture."
+  ]
+},
+{
+  "id": 27,
+  "added": "2026-10-22",
+  "url": "https://youtu.be/eqenT3eNlY4",
+  "title": "Countries Actively Hiring Indians in 2026 (Govt-Backed Visa-Sponsored Job Portals)",
+  "author": "Yash Mittra - YMGrad",
+  "category": "Immigration & Abroad",
+  "core": "Many governments run official job portals that list employers open to hiring and sponsoring foreign workers. Indians can apply to them directly instead of going through agents.",
+  "points": [
+    "Germany: make-it-in-germany.com lists jobs and visa options from IT to healthcare. You can apply from India, but knowing German matters for interviews.",
+    "Australia: workforceaustralia.gov.au lists employers in skilled-migration programmes with salary and location, which is easier if you're already a student there. New Zealand: immigration.govt.nz and careers.govt.nz cover jobs plus a full settling-in pathway.",
+    "UK: findajob.dwp.gov.uk. Japan: jetro.go.jp/en for jobs, settling in, and starting a business.",
+    "Singapore: mycareersfuture.gov.sg shows roles open to Employment Pass or S Pass candidates.",
+    "Nordics: Sweden arbetsformedlingen.se (has an English section), Norway arbeidsplassen.nav.no, Denmark workindenmark.dk, Finland workinfinland.com (tech, healthcare, research).",
+    "Europe: Netherlands werk.nl (jobs plus relocation guidance), Austria ams.at (shortage occupations for foreigners), France francetravail.fr, Ireland jobsireland.ie (healthcare, tech, hospitality).",
+    "Asia & Gulf: South Korea work24.go.kr (English section, some Korean helps), Dubai dubaicareers.ae, Qatar hukoomi.gov.qa.",
+    "Bonus: UN jobs, World Bank jobs, and the EU Blue Card database. All links are in the video description."
+  ]
+},
+{
+  "id": 28,
+  "added": "2026-10-22",
+  "url": "https://youtu.be/L8PnCRPB6oc",
+  "title": "Master the Art of Communication in 13 Minutes: 5 Simple Secrets",
+  "author": "Tharun Speaks",
+  "category": "Career & Jobs",
+  "core": "A five-module plan to noticeably improve communication in about 10 days. Stay present and pause before answering, tailor and structure your message (answer, reason, example), control pace, stress, and pauses, shore up English basics, and practise daily with AI tools and exercises.",
+  "points": [
+    "Be present: Stop worrying about being judged and focus on the conversation. Exercise: count distractions per day and bring the number down over 10 days.",
+    "Pause first: Take 2–5 seconds before answering (as Steve Jobs did). It makes answers clearer and signals confidence and care.",
+    "Know your audience: Keep it simple for students and more technical for a research conference.",
+    "Answer-Reason-Example framework: Answer, give the reason, then an example, e.g. 'Yes, learn video editing, because it's in demand. My friend makes ₹30k a month part-time.'",
+    "Delivery: Speak slowly so your brain can form better replies. Choose which word to stress, since stress changes meaning ('He was driving a red car'), and pause before punchlines like stand-up comedians.",
+    "Foundations: Fix basic grammar gaps and look up every unfamiliar word you meet while reading.",
+    "Tools: ChatGPT voice mode with a prompt like 'talk to me for 10 minutes, one question at a time, give one improvement after each answer', a word-of-the-day newsletter (e.g. dictionary.com), and YouGlish for real pronunciations.",
+    "Daily exercises: Write 500 words on a random topic, talk to yourself in English, and imitate speakers you like (politicians, actors) until your own style emerges."
+  ]
 }
 ];
 
-window.LAST_UPDATED="2026-10-22T14:25:00+05:30";
+window.LAST_UPDATED="2026-10-22T14:45:00+05:30";
