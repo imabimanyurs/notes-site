@@ -528,7 +528,116 @@ window.NOTES = [
     "Recommendation: choose the BAL or the ISO Hemlock based on your play style; you can't really go wrong with either.",
     "Sponsored by Call of Duty Mobile."
   ]
+},
+{
+  "id": 37,
+  "added": "2026-10-22",
+  "url": "https://youtu.be/DHu7GX0tCQ0",
+  "title": "this is how i spend my salary living in chennai",
+  "author": "Iswaryaa G P",
+  "category": "Finance & Investing",
+  "core": "A Chennai professional earning ₹51,800 (₹50K in hand, with ₹1.8K going to PF that the company matches) splits her salary into four levels. Level 1, Basics (~56%): rent, transport, utilities, essential subscriptions. Level 2, Protection: personal health insurance, term life insurance and an emergency fund. Level 3, Growth (~31%): SIPs into a liquid fund until the emergency fund is full, then investing. Level 4, Fun (~11%): guilt-free spending with a cap. She adapts the structure to any salary and asks viewers to sort last month's bank statement into the four levels. (Transcribed from Tamil via WhisperAI, so some figures are approximate.)",
+  "points": [
+    "Salary ₹51,800, of which ₹50K reaches the bank. ₹1.8K goes to the Provident Fund, and the company contributes the same amount. All planning uses the ₹50K in hand.",
+    "Level 1, Basics: rent ₹8K plus transport ₹2K (~20%). Rent and transport trade off: a pricier home near work can mean near-zero transport, while a cheaper distant home costs more to commute. Don't over-spend on rent or treat daily Swiggy and Zomato orders as basics; those belong in fun.",
+    "Utilities (Wi-Fi, gas, electricity, recharges) ~₹2K (~4%), and only truly essential subscriptions (~₹1K), e.g. professional tools, not subscriptions taken just because you have the money.",
+    "Quick task: open your UPI app's autopay list and cancel unneeded subscriptions.",
+    "Level 2, Protection: health insurance gets costlier with age, so buy early. Don't rely only on company cover, which ends if you lose the job. Take a separate personal policy with a minimum ₹5 lakh cover.",
+    "Term life insurance (~₹1K, ~2%) if family depends on you. Cover of 10–15× annual income, i.e. ₹60–90 lakh on a ₹50K salary. The younger you buy, the lower the premium.",
+    "Emergency fund: at least 3 months of must-have expenses, for job loss or medical emergencies.",
+    "Level 3, Growth: ~₹15.5K (~31%), plus PF, so ~35% of income goes to the future. Any Level 1 spill-over also goes to the emergency fund. It fills in roughly 5–6 months.",
+    "Park the emergency-fund SIP in a liquid fund (low-risk debt fund) via a goal-based investment in an app (the sponsor, Rupeezy). The goal is safety and access, not growth, and it keeps the money from leaking away as it would in a savings account.",
+    "Once the emergency fund is full, redirect that SIP to growth investments. Do your own research or get an informed opinion before investing in stocks.",
+    "Level 4, Fun: ~₹5.5K (~11%) for food orders, shopping and outings, spent without guilt. Rule: never dip into Level 3 investments for fun. For big purchases, create a short-term goal and save toward it rather than taking EMIs.",
+    "Capping fun money means it gets spent anyway but within limits. Unused fun money can roll over.",
+    "If you have a loan, she'd personally prioritise clearing it (pausing investing for a few months) so she can sleep without EMI stress. It's a personal choice; plan for your own situation and income.",
+    "Adapt the four-level split to your own salary and responsibilities, e.g. if you send money home.",
+    "Task: sort every debit in last month's bank statement into the four levels to see where unnecessary money goes, then start an emergency-fund goal now."
+  ]
+},
+{
+  "id": 38,
+  "added": "2026-10-22",
+  "url": "https://youtu.be/7EQouKYhusU",
+  "title": "India's Smartphone Market Slumps: Why Buyers Are Holding On To Old Phones | The Palki Sharma Show",
+  "author": "India Global Review",
+  "category": "Finance & Investing",
+  "core": "Even in festive season, India's smartphone market is slumping. July–September 2026 shipments fell 26% to 35.8 million units, the lowest Q3 since 2016, because phones have become too expensive. Wars in Europe and West Asia raised shipping and oil costs, but the biggest driver is the AI boom: AI companies outbid phone makers for memory chips, and phone makers pass the cost on to buyers. Consumers are keeping old phones, choosing cheaper models or chasing deals. That has helped value brands like Samsung while Vivo, Oppo and Xiaomi slipped, and it raises the question of whether the phone as a status symbol is fading.",
+  "points": [
+    "Festive season is traditionally when Indians upgrade phones, with new models, big discounts and exchange offers, but sales are low this year.",
+    "Q3 (Jul–Sep 2026) shipments, meaning phones sent to retailers rather than phones sold, fell 26% to 35.8M units, the lowest third quarter since 2016.",
+    "Fewer shipments signal lower demand and an industry slowdown. The main reason is price: smartphones have become too expensive.",
+    "Wars in Europe and West Asia disrupted shipping routes and pushed up oil and transport costs, raising the cost of making and selling phones.",
+    "The biggest factor is AI. AI systems need huge amounts of memory, so memory-chip demand soared. AI companies pay more and get priority from chip makers.",
+    "Phone makers chose to pass the higher chip costs on to customers rather than absorb them.",
+    "Buyers haven't stopped entirely. They hold on to old phones, pick cheaper models or look for better deals, which gives affordable brands an edge.",
+    "Samsung reclaimed #1 with 6.7M phones, helped by the cheaper Galaxy A series (from $105) plus cashbacks, exchange deals and easy payment plans.",
+    "Vivo dropped to #2 as shipments fell 34%, unable to match Samsung's entry-level supply. Oppo and Xiaomi also fell sharply after raising prices ~20%, weakening their value-for-money appeal.",
+    "Apple was last on the list, at 3.9M phones.",
+    "It's not just cheap phones winning: every rupee matters and customers think twice before upgrading.",
+    "The open question is whether this is temporary or a lasting shift away from the phone as a status symbol. Brands must make phones people want at prices they can afford."
+  ]
+},
+{
+  "id": 39,
+  "added": "2026-10-22",
+  "url": "https://youtu.be/8atK0pF4oJY",
+  "title": "DISCIPLINE | An Animated Short Film",
+  "author": "Day One Films",
+  "category": "Psychology & Mindset",
+  "core": "A 2.5-minute animated motivational short about discipline that is almost entirely music and visuals. The only spoken words are a short affirmation chant: you are the future, the fire, the light and the foundation. (The captions contain only these lines, so this note doesn't describe the visuals.)",
+  "points": [
+    "Format: a ~2.5-minute animated short film on the theme of discipline, mostly music with almost no narration.",
+    "The spoken lines are affirmations: 'You are the future.' 'You are the fire.' 'You are the light.' 'You are the foundation.'",
+    "The message is that you are the foundation and the future, and your discipline today builds tomorrow. Note: only the lines above are in the transcript; the visuals were not reviewed."
+  ]
+},
+{
+  "id": 40,
+  "added": "2026-10-22",
+  "url": "https://youtu.be/pGYuphG8zVs",
+  "title": "The Exact 6 Nutrients That Fixed My Hair Loss",
+  "author": "Zolven",
+  "category": "Health & Fitness",
+  "core": "Shampoos, rosemary oil and serums don't fix hair fall when the real problem is inside. Like plants, hair needs proper nutrition, and the creator says nutrient deficiency is why many men see no results even with minoxidil. Six nutrients matter: zinc for scalp and follicle repair, iron for oxygen delivery, omega-3s to reduce scalp inflammation, vitamin D3 for the hair growth cycle, biotin as a supporting nutrient, and protein, the foundation, since hair is made of keratin.",
+  "points": [
+    "Hair is like a plant: without proper nutrition, what you spray on the leaves won't help. The creator blames lacking vitamins and minerals for hair fall and for why many see no results from minoxidil or expensive products.",
+    "1. Zinc: drives hair tissue repair, new cell growth and follicle function. Low zinc means weak follicles, hair fall, dandruff and a dry, irritated scalp. Sources: pumpkin seeds (1 tbsp a day), cashews, almonds, curd, beans.",
+    "2. Iron: delivers oxygen through the blood to the tissues supporting hair growth. Low iron leads to thinning, more shedding and fragile strands. Frequent tiredness plus heavy hair loss is a signal to get iron checked.",
+    "Iron sources: spinach, chickpeas, kidney beans, beetroot, pomegranate. Pair them with vitamin C (lemon, amla, orange juice) to significantly improve absorption.",
+    "3. Omega-3 fatty acids: chronic scalp inflammation is an underrated cause of hair loss. Omega-3s reduce it and support a healthy scalp. Sources: fish, or flaxseeds, chia seeds and walnuts for vegetarians, at least one daily.",
+    "4. Vitamin D3: deficiency is extremely common because people stay indoors. Vitamin D regulates the hair growth cycle, and many people with hair loss are deficient.",
+    "Vitamin D fix: 15–20 minutes of direct morning sunlight on the skin (not through a window). Supplement only after a blood test shows significant deficiency. It also helps energy and immunity.",
+    "5. Biotin (B7): helps the body use protein and nutrients, which matters because hair is protein. But biotin alone won't fix hair fall if you're low in protein, iron, zinc and the rest. Food sources: eggs, peanuts, sunflower seeds, sweet potatoes.",
+    "6. Protein: hair is almost entirely keratin. The body sends protein to vital organs, then tissues, then bones, and only leftovers reach the hair.",
+    "Working out, dieting or drastically cutting calories can therefore cause hair fall. Sources: eggs, chicken, fish, or tofu, soya chunks, lentils and Greek yogurt.",
+    "Protein is the foundation; without it the other five can't do their job. Focus on what you put in your body, not just on your hair."
+  ]
+},
+{
+  "id": 41,
+  "added": "2026-10-22",
+  "url": "https://youtu.be/9lXtsxLbi6U",
+  "title": "Austria Working Holiday Visa 2026 🇦🇹 | Come to Austria & Find Work? Eligibility, Funds & Requirement",
+  "author": "The Halwa Guy",
+  "category": "Immigration & Abroad",
+  "core": "Under a pilot agreement between India and Austria, young Indians aged 18–30 can get a 12-month Work Holiday Programme visa (Visa D) to live in Austria, look for work and explore the country, without first finishing a degree or getting employer sponsorship. You need a valid passport, an ICAO-compliant photo, travel and health insurance of at least €30,000, proof of funds for the stay and a return ticket or money for one. You apply by emailing the Austrian Embassy for an appointment. A job offer can lead to a work visa, or admission to a course to a student visa. Don't take illegal cash jobs. (Transcribed from Tamil via WhisperAI, so figures are approximate.)",
+  "points": [
+    "Normally, moving abroad means finishing a degree or course, or getting an employer's visa sponsorship. The Work Holiday Programme is an easier entry.",
+    "India and Austria signed agreements including a pilot Work Holiday Programme visa, which falls under Visa D, to bring more young workers into Austria.",
+    "Eligibility: ages 18–30 only, with a valid Indian passport.",
+    "Documents: ICAO-compliant passport-size photo; travel or health insurance for Austria with at least €30,000 cover; bank statement proving funds for the 12-month stay; a return ticket or funds to buy one.",
+    "Validity: 12 months. The application fee mentioned is ~€195 (approximate from the transcript).",
+    "How to apply: prepare everything, then email the Austrian Embassy saying you have all the required documents for the Work Holiday Programme and asking for an appointment. They reply with a date and time.",
+    "Required funds aren't stated on any official site; the embassy checks your statement. Check the official amount yourself.",
+    "His rough monthly estimates: accommodation ~€1,000–1,500 at first (fully furnished places are rare), food and local transport ~€300–500, groceries ~€200, a first-month emergency fund ~€500, plus a return ticket. Sharing rooms lowers costs.",
+    "After arriving you can look for work. If an employer likes your work (e.g. after ~6 months), you can switch from the Work Holiday Programme to a work visa.",
+    "If you want to do a full course (e.g. 2 years), contact the university or institution and ask to convert to a student visa.",
+    "It's a good chance to explore a developed country, its work environment and its people before committing to study or a career there.",
+    "Warning: don't treat it as a way in for 'under the table' cash jobs or other illegal work. You'd have no official records or employer health insurance, which leaves you unprotected in a medical emergency.",
+    "Use the visa to earn employer sponsorship and build a real future. The creator offers a paid consultation call (not job placement)."
+  ]
 }
 ];
 
-window.LAST_UPDATED="2026-10-22T21:51:00+05:30";
+window.LAST_UPDATED="2026-10-22T21:57:00+05:30";
