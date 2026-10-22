@@ -482,7 +482,53 @@ window.NOTES = [
     "Have a yearly financial goal, such as a corpus to reach or an asset to invest in, and work toward it no matter what. The creator calls this his top habit of the last 5 years.",
     "These small habits won't make you Ambani overnight, but over time they bring big change."
   ]
+},
+{
+  "id": 35,
+  "added": "2026-10-22",
+  "url": "https://youtu.be/_KEyrUJlTf0",
+  "title": "300K Visas Gone! Trump's 'Zero Tolerance' Immigration Crackdown | Firstpost Live | 4K",
+  "author": "Firstpost",
+  "category": "Immigration & Abroad",
+  "core": "Since Donald Trump returned to the White House, more than 300,000 US visas have been revoked, according to the State Department. The administration says it has zero tolerance for foreign nationals who break the law, commit fraud or threaten national security. The crackdown also reaches legal migration: a one-time H-1B fee of over $100,000, visa restrictions on commercial birth-tourism networks, and suspending major tech and Indian IT firms from green-card sponsorship (PERM). Washington says these steps protect American workers, but they could have far-reaching consequences for foreign professionals, especially Indians.",
+  "points": [
+    "300,000+ US visas revoked since Trump returned, which the administration says is more, and faster, than any administration in history.",
+    "Reasons for revocation: assaults and related crimes 25%, DUI 22%, theft 7%, substance abuse and distribution 7%, and other or unspecified reasons 39%.",
+    "Stated policy: zero tolerance for visa holders who break the law, commit fraud or undermine national security.",
+    "Legal migration is targeted too: companies now face a one-time fee of over $100,000 to bring in H-1B workers, making foreign hiring much more expensive.",
+    "Indians could be among the worst affected, since they account for nearly two-thirds of H-1B beneficiaries and US tech companies rely on the programme for specialist talent.",
+    "Birth tourism: visa restrictions target 'commercial birth tourism networks' that the administration says exploit the immigration system and public benefits.",
+    "Several companies, including Microsoft, Adobe, TCS, Infosys and Wipro, were suspended from the programme that lets employers sponsor foreign workers for green cards, accused of abusing it and undercutting American workers.",
+    "The Justice Department's Civil Rights Division says it will keep enforcing PERM so companies (e.g. Cloudera) give American workers fair access to jobs.",
+    "Together with tougher screening, higher fees and stricter vetting for some work visas, these moves could complicate the path to permanent residency for skilled foreign workers.",
+    "The agenda now goes well beyond undocumented migration, even though Trump campaigned on stopping illegal immigration."
+  ]
+},
+{
+  "id": 36,
+  "added": "2026-10-22",
+  "url": "https://youtu.be/psbeWouEHUw",
+  "title": "Before you unlock your free mythic watch this",
+  "author": "Bobby Plays",
+  "category": "Gaming",
+  "core": "In Call of Duty Mobile, 49 days (7 weeks) remain to unlock a free permanent Honkai mythic, and it's still not too late even from zero progress. 50 tokens come from 14 days of logins in the Mythic Boost event and 25 from a redemption-centre code, leaving 425 sigils, about 60 a week, and up to 69 were possible in week one. Bobby scores the three mythic options on meta strength, improvement over the base gun, and nerf risk: ISO Hemlock 27.5/30, BAL 27/30 and Static 19/30. He recommends the BAL or the ISO depending on play style, with the Static mainly for Akimbo or BR fans.",
+  "points": [
+    "49 days (7 weeks) are left to unlock a free Honkai mythic. This is the first week committed free-to-play players can start unlocking their permanent mythic.",
+    "Not too late from zero: 50 free tokens from logging in 14 days straight in the Mythic Boost event (21 days left), plus 25 more from the COD Mobile Redemption Center code 'free mythic event'.",
+    "That leaves 425 sigils needed, about 60 per week over 7 weeks. Bobby got 69 in week one doing every daily, weekly and speed-up task, so a few missed days are fine.",
+    "Next season is the anniversary update, usually COD's most generous, so extra last-minute events are likely.",
+    "Scoring criteria (weight them for yourself): meta score (strength in the current meta), improvement over the base version, and nerf chance (higher score means less likely to be nerfed).",
+    "ISO Hemlock: meta 7.5/10. It's #6 in his top 10 and solid in MP and BR, but slower firing in a fast-firing meta, so missed shots are punished more.",
+    "ISO Hemlock: improvement 10/10, because the base has terrible iron sights and the mythic's built-in red dot is a major upgrade. Nerf chance 10/10, the least likely to be nerfed as the weakest and newest. Recent animation and bullet-speed fixes. Total 27.5/30.",
+    "BAL: meta 9.5/10. It's the current #1 AR with fire rate and damage similar to the Switchblade and Static (an AR version of them), lacking only their boosted aim assist and mobility.",
+    "BAL: improvement 9/10 (better irons and red dot help long range, snappier handling). Nerf chance 8.5/10, already nerfed once but #1 in competitive for a long time, and Chinese player feedback drives many nerfs. Total 27/30. It's the better aggressive AR.",
+    "Static: meta 10/10, by far the best gun, with boosted aim assist, absurd time-to-kill and better three-tap consistency than the Switchblade, even after last season's nerf.",
+    "Static: improvement 5/10. The base irons are already great and aim assist reduces the value of visibility. The mythic's ADS animation is a few frames slower and it feels clunkier. Nerf chance 4/10, the most likely to be nerfed again since lobbies often have 5+ Statics. Total 19/30.",
+    "The mythic Static feels better in Akimbo (different running animation, no ADS), so Akimbo and BR players may still prefer it.",
+    "Recommendation: choose the BAL or the ISO Hemlock based on your play style; you can't really go wrong with either.",
+    "Sponsored by Call of Duty Mobile."
+  ]
 }
 ];
 
-window.LAST_UPDATED="2026-10-22T21:49:00+05:30";
+window.LAST_UPDATED="2026-10-22T21:51:00+05:30";
