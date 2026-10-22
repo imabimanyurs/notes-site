@@ -38,20 +38,42 @@ kbd{font-size:11px;border:1px solid var(--line);border-radius:4px;padding:1px 5p
 .pal{max-width:560px;padding:0;overflow:hidden}.pal input{width:100%;padding:16px 18px;border:0;border-bottom:1px solid var(--line);background:transparent;color:var(--txt);font:inherit;font-size:16px;outline:none}
 .pal .it{padding:10px 18px;cursor:pointer;display:flex;justify-content:space-between;font-size:14px}.pal .it.sel{background:var(--sel)}.pal .it small{color:var(--mut)}
 .menu{display:none}.watch{display:inline-block;margin-top:10px;font-size:12.5px;font-weight:600;color:#fff;background:#e11d48;padding:5px 10px;border-radius:8px;text-decoration:none}.watch:hover{background:#be123c}.list .card{min-height:120px}.card{display:flex;flex-direction:column}.grid .body{flex:1}.hero{display:none;background:linear-gradient(135deg,#4f46e5,#7c3aed 60%,#db2777);color:#fff;border-radius:18px;padding:26px 28px;margin-bottom:22px}.hero.show{display:block}.hero h3{margin:0 0 6px;font-size:22px}.hero p{margin:0;opacity:.9}.chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px}.chips a{background:#fff3;color:#fff;padding:5px 12px;border-radius:20px;font-size:13px;cursor:pointer}.chips a:hover{background:#fff5}
-@media(max-width:800px){aside{position:fixed;left:-240px;z-index:9;transition:.2s}aside.open{left:0}.menu{display:block}main{padding:16px}.list .thumb{width:120px}}
+html,body{overflow-x:hidden}
+.scrim{display:none}
+@media(max-width:800px){
+aside{position:fixed;left:-270px;width:260px;z-index:20;transition:left .22s;box-shadow:var(--sh)}aside.open{left:0}
+.scrim.show{display:block;position:fixed;inset:0;background:#0008;z-index:19}
+.menu{display:block}main{padding:14px 14px 28px;width:100%}
+.top{display:grid;grid-template-columns:44px 1fr;gap:8px}.menu{width:44px;padding:9px 0}
+.top input{min-width:0;width:100%;grid-column:2;font-size:16px;padding:10px 12px}
+.top .pk{display:none}
+.top select{grid-column:1/2;grid-row:2}
+.top .vw{grid-row:2}
+.vwrap{display:flex;gap:8px;grid-column:1/3;grid-row:2;justify-self:end}
+.top select{grid-column:1/3;grid-row:2;justify-self:start;width:auto}
+.btn,select{padding:9px 11px;font-size:14px}
+.head h2{font-size:21px}
+.grid{grid-template-columns:1fr;gap:14px}
+.hero{padding:18px;border-radius:14px}.hero h3{font-size:18px}.hero p{font-size:14px}
+.chips a{font-size:12px;padding:4px 10px}
+.list .card{flex-direction:row}.list .thumb{width:110px;font-size:0;padding:0}.list .thumb:after{width:30px;height:30px;font-size:11px}.list .body{padding:10px 12px}.list .tl{-webkit-line-clamp:2}
+.ov{padding:0;align-items:stretch}.modal{border-radius:0;padding:22px 18px 30px;min-height:100%}.modal h2{font-size:20px}
+.pal{min-height:auto;border-radius:0 0 14px 14px}
+.pager{flex-wrap:wrap}
+}
 </style></head><body><div class="app">
 <aside id="side"><h1>📝 YouTube Notes</h1>
 <div class="nav" id="nav"></div><h4>Categories</h4><div class="cat" id="cats"></div>
 <div class="sync" id="sync"></div><button class="btn" id="th" style="margin:14px 10px;width:calc(100% - 20px)" onclick="toggleTheme()"></button></aside>
-<main><div class="top"><button class="btn menu" onclick="side.classList.toggle('open')">☰</button>
-<input id="q" placeholder="Search titles, ideas, key points…"><button class="btn" onclick="openPal()">⌘K</button>
+<main><div class="top"><button class="btn menu" onclick="sideOpen(true)">☰</button>
+<input id="q" placeholder="Search titles, ideas, key points…"><button class="btn pk" onclick="openPal()">⌘K</button>
 <select id="sort"><option value="new">Newest</option><option value="old">Oldest</option><option value="az">Title A–Z</option><option value="za">Title Z–A</option></select>
-<button class="btn" id="bg" onclick="setView('grid')">▦ Grid</button><button class="btn" id="bl" onclick="setView('list')">☰ List</button></div>
+<div class="vwrap"><button class="btn" id="bg" onclick="setView('grid')">▦ Grid</button><button class="btn" id="bl" onclick="setView('list')">☰ List</button></div></div>
 <div class="head"><h2 id="ttl"></h2><span id="cnt"></span></div>
 <div class="hero" id="hero"></div><div id="out"></div><div class="pager" id="pager"></div></main></div>
-<div class="ov" id="ov" onclick="if(event.target==this)closeAll()"><div class="modal" id="md"></div></div>
+<div class="scrim" id="scrim" onclick="sideOpen(false)"></div><div class="ov" id="ov" onclick="if(event.target==this)closeAll()"><div class="modal" id="md"></div></div>
 <div class="ov" id="po" onclick="if(event.target==this)closeAll()"><div class="modal pal"><input id="pi" placeholder="Jump to a note, category, or view…"><div id="pl"></div></div></div>
-<script src="notes.js?v=4"></script><script>
+<script src="notes.js?v=5"></script><script>
 const $=id=>document.getElementById(id),PER=12,COLORS=["#4f46e5,#9333ea","#0ea5e9,#2563eb","#f43f5e,#f97316","#10b981,#0d9488","#eab308,#f97316","#8b5cf6,#ec4899"];
 let S={nav:"all",cat:null,view:localStorage.view||"grid",page:1},fav=new Set(JSON.parse(localStorage.fav||"[]"));
 NOTES.forEach((n,i)=>{n.id=n.id||i+1;n.added=n.added||'2026-10-22';n.points=n.points||[];n.core=n.core||'';n.author=n.author||''});
@@ -78,8 +100,9 @@ function render(){drawSide();$('bg').classList.toggle('on',S.view=="grid");$('bl
  const sl=a.slice((S.page-1)*PER,S.page*PER);
  $('out').className=S.view;$('out').innerHTML=sl.map(card).join("")||`<div class="empty">${S.nav=="fav"?"No favorites yet. Tap ☆ on a note to save it.":"No notes match."}</div>`;
  $('pager').innerHTML=pages>1?Array.from({length:pages},(_,i)=>`<button class="btn ${i+1==S.page?'on':''}" onclick="S.page=${i+1};render();scrollTo(0,0)">${i+1}</button>`).join(""):""}
-function go(k){S.nav=k;S.cat=null;S.page=1;$('side').classList.remove('open');render()}
-function goCat(c){S.cat=c;S.nav="all";S.page=1;$('side').classList.remove('open');render()}
+function sideOpen(o){$('side').classList.toggle('open',o);$('scrim').classList.toggle('show',o)}
+function go(k){S.nav=k;S.cat=null;S.page=1;sideOpen(false);render()}
+function goCat(c){S.cat=c;S.nav="all";S.page=1;sideOpen(false);render()}
 function setView(v){S.view=localStorage.view=v;render()}
 function toggleFav(id){fav.has(id)?fav.delete(id):fav.add(id);localStorage.fav=JSON.stringify([...fav]);render();if($('ov').classList.contains('show'))openNote(id)}
 function openNote(id){const n=NOTES.find(x=>x.id==id);$('md').innerHTML=`<button class="x" onclick="closeAll()">×</button><div class="tag">${esc(n.category)}</div><h2>${esc(n.title)}</h2>
@@ -99,6 +122,6 @@ document.onkeydown=e=>{if((e.metaKey||e.ctrlKey)&&e.key.toLowerCase()=="k"){e.pr
 $('q').oninput=()=>{S.page=1;render()};$('sort').onchange=render;
 function applyTheme(){const t=localStorage.theme||(matchMedia('(prefers-color-scheme: light)').matches?'light':'dark');document.documentElement.dataset.theme=t;$('th').textContent=t=='dark'?'☀️ Light mode':'🌙 Dark mode'}
 function toggleTheme(){localStorage.theme=document.documentElement.dataset.theme=='dark'?'light':'dark';applyTheme()}
-applyTheme();
+applyTheme();if(innerWidth<800)$('q').placeholder='Search notes…';
 render();const h=location.hash.match(/note-(\d+)/);if(h)openNote(+h[1]);
 </script></body></html>
