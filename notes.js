@@ -52,7 +52,124 @@ window.NOTES = [
     "Network: Referrals matter because trust is important. Ask ex-colleagues and contacts, message HR, recruiters, and expat recruitment agencies on LinkedIn in one clear message (who you are, why you're reaching out, any openings), and attend events if you're already there.",
     "Interviews and timeline: Expect a recruiter call, a manager round, often a take-home assignment (about 7 days) that you then discuss, and a team-fit meeting. That's at least 2–3 rounds and 1–2.5 months to an offer, longer around holidays. The whole search can take a year or two, so be patient."
   ]
+},
+{
+  "id": 15,
+  "added": "2026-10-22",
+  "url": "https://youtu.be/mNX1wpIQ4Uk",
+  "title": "Learn German A1 in 25 Minutes: Step-by-Step Crash Course for Beginners",
+  "author": "Max Yoko",
+  "category": "Languages",
+  "core": "A native German speaker's beginner crash course that takes you from zero to simple A1 sentences. It covers pronunciation, greetings, introducing yourself, sentence structure, pronouns, questions, numbers, weekdays, and noun genders.",
+  "points": [
+    "Alphabet and sounds: German has the same 26 letters as English plus the umlauts ä, ö, ü and ß (the sharp s, usually like a double s). Watch for 'ch' (two sounds, as in ich and Buch), 'sch' = sh (Schule), and 'z' = ts (Zukunft).",
+    "Greetings: Hallo; Guten Morgen (morning), Guten Tag (any time of day), Guten Abend (evening). Goodbyes: Tschüss (casual), Bis später (see you later), Auf Wiedersehen (standard and more formal).",
+    "Introduce yourself: Ich heiße… / Ich bin… (name), Ich komme aus… (country), Ich wohne in… (city).",
+    "Sentence structure: Subject-verb-object, like English (Ich lerne Deutsch, Ich trinke Wasser, Ich esse Brot).",
+    "Personal pronouns: ich, du (informal you), er, sie, es, wir, ihr (you all), sie (they). Capitalised Sie is the formal you.",
+    "Questions: Swap the subject and verb (Sie hat Hunger → Hat sie Hunger?), optionally after a question word. Useful ones: Woher kommst du?, Was machst du?, Sprichst du Deutsch? (Ja, ein bisschen).",
+    "Numbers: Memorise 1–12 and 20. For 13–19, add -zehn to the root (dreizehn), with siebzehn as the exception. Ask age with Wie alt bist du? and answer Ich bin 19.",
+    "Weekdays: Montag, Dienstag, Mittwoch, Donnerstag, Freitag, Samstag, Sonntag. All end in -tag except Mittwoch. Heute = today, morgen = tomorrow.",
+    "Noun genders: der (masculine), die (feminine), das (neuter), with no clear rule (der Tisch, die Katze, das Haus). Always learn each noun together with its article, ideally with flashcards."
+  ]
+},
+{
+  "id": 16,
+  "added": "2026-10-22",
+  "url": "https://youtu.be/FjILNkbUBwI",
+  "title": "How I Got a 50 LPA Remote Job at 19 (Storytime)",
+  "author": "Nikhil Sheoran",
+  "category": "Career & Jobs",
+  "core": "A 19-year-old BITS Goa student got remote US startup offers, including about 50 LPA, without applying through portals. He did it by building real products in the same space, researching startups where his experience mattered, and cold-emailing their founders directly. He turned the offer down to build his own startup.",
+  "points": [
+    "Background: He taught himself to code at 11 from free YouTube tutorials, started a video-editing agency in college (a few lakhs a month within about 3 months, but hard to scale), then built FastCut, an AI short-video editor.",
+    "FastCut lessons: It reached about 15k users, partly from luck as an early AI editor, but took 7 months to earn $1,000 in total revenue. Two technical founders kept building features instead of selling, so he stopped in May 2025.",
+    "First job came from building in public: A New York AI video startup founder saw his tweets and offered a remote job (about $60k cash) without asking for a resume. It ended when the company went in-person.",
+    "Key insight: Employers care only about the value you can add. Relevant real-world experience beats a good GitHub or resume, especially at startups.",
+    "Find targets: Search Twitter, Reddit, LinkedIn, Product Hunt, Hacker News, and TechCrunch for early-stage startups in your area. Research the founders, the team, and the problem, and look for funding, new launches, or fast growth.",
+    "Skip crowded listings: Avoid companies that post jobs everywhere and get hundreds of applicants. Email founders directly even when no role is posted, since founder emails are usually findable online.",
+    "Short cold emails: Say what you've worked on, why you fit, and ask for a 15-minute chat. Relevance matters more than the template. His result was 30 startups emailed, 13 replies, and an offer within a week.",
+    "Startup interviews aren't standardised: Some had a technical round, others were just casual chats with the founders.",
+    "Outcome: He turned down the ~50 LPA YC-backed remote offer to take another shot at a startup while young with few responsibilities. Now he's building Backdoor, an AI tool that helps people find startup jobs."
+  ]
+},
+{
+  "id": 17,
+  "added": "2026-10-22",
+  "url": "https://youtu.be/jv-eTZh5shs",
+  "title": "EU Developer Salaries 2026: Salaries, Taxes, Remote Work & Where to Go",
+  "author": "theSeniorDev",
+  "category": "Immigration & Abroad",
+  "core": "A tier list of European countries for software developers, scored on salary, tax and cost of living, market saturation, interview difficulty, quality of life, remote and English-friendliness, and tech ecosystem. Switzerland and Ireland top it, Greece is at the bottom.",
+  "points": [
+    "S tier: Switzerland: Juniors about 70–90k and seniors 120–200k with roughly 20–25% tax, but very expensive. Jobs usually need German and qualifications, entry is hard for non-EU people, and life is high quality but can be closed or boring.",
+    "S tier: Ireland: Seniors 80k up to about 180k at FAANG, the biggest US tech presence in Europe (Meta, Google), very English and remote-friendly. Rent and tax are high, and big tech uses US-style LeetCode and system-design interviews.",
+    "A tier: UK and Netherlands: London seniors earn 80–150k thanks to finance, but rent is extreme. The Netherlands pays seniors 75–150k (Booking, Adyen), is very English-friendly, and interviews are practical. Both are trending up.",
+    "A tier: Sweden, Denmark, Norway: Seniors 90–120k with 45–55% top tax and long dark winters, but a strong welfare state and English everywhere. Finland drops to B because of economic trouble.",
+    "B tier: Germany: Juniors 45–55k and seniors 65–95k, with a 42% bracket above about 60k. It's stable with a mature ecosystem, but the economy is in recession, hiring is slow (many interview stages), most roles outside Berlin and Munich want German, and bureaucracy is heavy.",
+    "B tier: Poland and Czech Republic: Seniors 45–70k, with B2B contracts taxed about 12–20%. Fast-growing and English-friendly, but much of the work is outsourcing rather than product development.",
+    "C tier: France, Spain, Italy, Portugal and Eastern Europe: Southern Europe pays seniors 45–75k with high taxes and the best lifestyle but little English or remote work. Romania, Bulgaria, Hungary, and Serbia pay seniors 45–80k with low tax and costs, mostly outsourcing work.",
+    "D tier: Greece: Similar to Spain and Italy but with lower pay and higher taxes. Developers wanting an international career usually leave.",
+    "Takeaway: Reaching senior level makes relocating far easier, since companies are much more flexible for senior engineers."
+  ]
+},
+{
+  "id": 18,
+  "added": "2026-10-22",
+  "url": "https://youtu.be/Jo-w-K3D7Y0",
+  "title": "Dubai Salary Guide 2026 with Real Numbers",
+  "author": "Ketan Vlogs",
+  "category": "Immigration & Abroad",
+  "core": "A Dubai salary offer is more than its monthly in-hand number. Check the basic-salary share and which family benefits are included, start from the 2.5× rule, and treat recruiter salary guides with caution because they often overstate mid-level pay.",
+  "points": [
+    "2.5× rule: To keep a similar lifestyle, your monthly Dubai salary should be at least 2.5 times your monthly Indian income.",
+    "Raise it to 3–3.2× without benefits: If the employer doesn't cover family visas, family health insurance, school fees, or annual airfare, you pay them yourself. Family visas cost about AED 7–8k per person every 2 years, and good family insurance about AED 15–35k a year.",
+    "Salary structure: Packages are negotiated as monthly in-hand pay (e.g. AED 20–25k), made up of a basic salary plus housing, transport, and other allowances.",
+    "Watch the basic share: Gratuity, bonuses, and future raises are calculated on the basic salary only. Good companies keep it around 50%, while some cut it to 15–30%, so even a 20% raise adds little.",
+    "Lifestyle varies hugely: People on the same income live very differently depending on their goal (save and return home, send money to family, or enjoy the lifestyle). Decide yours before judging an offer.",
+    "Benchmark with salary guides: Hays, Robert Walters, and Michael Page publish free yearly GCC salary guides (Michael Page needs a free login). Their figures are mostly similar to each other.",
+    "Reality check: Senior figures (head of IT AED 45–60k, programme manager 35–55k) look right, but junior and mid-level roles look inflated. A tech project manager is closer to AED 20–22k, and a business analyst with 3–5 years' experience earns about AED 22k at most.",
+    "Tip: Look one level down, e.g. use the guide's consultant figure to judge a senior consultant offer and the senior consultant figure for a manager."
+  ]
+},
+{
+  "id": 19,
+  "added": "2026-10-22",
+  "url": "https://youtu.be/p8SdBm8mguM",
+  "title": "5 Hair Care Steps to Learn Before It's Too Late",
+  "author": "MAXING",
+  "category": "Health & Fitness",
+  "core": "Shaving your head doesn't reset hair follicles. Young men worried about thinning or shedding can protect their hair with five simple habits: scalp blood flow, gentle drying, washing correctly, less damaging styling, and better internal health.",
+  "points": [
+    "Scalp massage: Massage your scalp with your fingertips in small, firm circles for 5 minutes, three times a week, or use a cheap silicone massager. It boosts blood flow so follicles get oxygen and nutrients.",
+    "Don't towel-scrub: Wet hair is at its most fragile, and rubbing with a rough towel snaps it. Pat and press with a microfiber towel or an old cotton T-shirt instead.",
+    "Wash rule: Shampoo 2–3 times a week, not daily, so your scalp keeps its natural oils. Use a gentle, sulfate-free cleanser.",
+    "Shampoo vs conditioner: Shampoo goes on the scalp and roots only. Conditioner goes only on the mid-lengths and ends for about 2 minutes, never the roots, where it clogs pores and makes hair look flat.",
+    "Styling mistakes: Tight caps and tight styles can cause traction alopecia, which means permanent hairline loss. Heavy gels clog pores and high heat bakes hair, so use light clays or sea-salt spray, medium dryer heat, and take your hat off sometimes.",
+    "Internal health: When you lack iron, zinc, biotin, vitamin D, or protein, your body cuts the supply to hair first. Junk food, sugary drinks, and late nights also trigger shedding, so aim for 8 hours of sleep.",
+    "Smoothie tip: Blend a banana, a handful of spinach, a scoop of peanut butter, a tablespoon of pumpkin seeds, and a cup of whole milk or Greek yogurt.",
+    "Note: Clinical hair-loss medications are often not prescribed to people under 18 or in their early 20s because they can affect developing hormones."
+  ]
+},
+{
+  "id": 20,
+  "added": "2026-10-22",
+  "url": "https://youtu.be/kgsXoZHwN2k",
+  "title": "Let Them Miss Out on You",
+  "author": "Kayllyn",
+  "category": "Psychology & Mindset",
+  "core": "Stop bending your boundaries to keep people who don't value you. Find security and happiness in yourself, set boundaries, and let the wrong people go. That's how you start attracting people who actually support you.",
+  "points": [
+    "You can't force the wrong people to be right: Some people stay only because you bend your emotions and boundaries for them, and that is disrespecting yourself.",
+    "Spot the wrong people: The right people never make you feel crazy for how you feel, while the wrong ones gaslight you and make you feel not good enough.",
+    "Happiness is your job: Relying on others for happiness keeps you stuck in people-pleasing and never feeling fulfilled. Spend time with yourself until you feel secure.",
+    "Confidence makes you selective: Low self-worth attracts people who don't respect you. Painful relationships often teach you your worth.",
+    "Set boundaries: Stop dropping everything at a simple message. People who know they can walk all over you will.",
+    "Expect losses: Voicing your needs and having hard conversations may cost you people, but it shows who the right ones are.",
+    "Don't settle: You deserve people who nurture, support, and believe in you the way you show up for them, not the bare minimum.",
+    "Bottom line: Give to yourself first. People who stayed only for what you provide were holding you back, so let them go and let them miss out."
+  ]
 }
 ];
 
-window.LAST_UPDATED="2026-10-22T14:05:00+05:30";
+window.LAST_UPDATED="2026-10-22T14:25:00+05:30";
