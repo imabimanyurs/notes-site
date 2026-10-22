@@ -456,7 +456,33 @@ window.NOTES = [
     "Her book pick: Think and Grow Rich. The trait the most successful people share is control of their time; money isn't wealth if you lack time for the people and things you love. Final message: trust yourself, be yourself, and it will happen in your own time.",
     "Note: the video includes promotions for the creator's paid School of Mentors community."
   ]
+},
+{
+  "id": 34,
+  "added": "2026-10-22",
+  "url": "https://youtu.be/srbeOgHJ6Dw",
+  "title": "Only 12 TINY Habits For MIDDLE CLASS To Become Rich🔴(Copy This)",
+  "author": "Curious Freaks",
+  "category": "Finance & Investing",
+  "core": "The biggest enemy of middle-class families is their own money habits. Many people run out of salary by the 10th of the month because of EMIs, bills and lifestyle spending, and someone earning 1 lakh often has less than 5 lakhs in emergency cash. The fix is a set of small habits: know your survival runway, trial-run an EMI before taking a loan, raise your income to its ceiling and build a side income with calculated risk, track the reason behind every expense (Japanese Kakeibo), learn from the right sources, keep a family financial checklist, say no to invitations beyond your means, start investing now, stop flexing generosity, question financial conventions, and set yearly goals such as doubling your per-day earning potential. These won't make you rich overnight, but they compound into big change over the long run.",
+  "points": [
+    "Survival number: divide only liquid savings (not house value, pledgeable gold or fluctuating stocks) by your monthly basic expenses (rent, EMI, groceries). The result is how many months you could survive if your income stopped today.",
+    "Trial EMI: for 4 months before taking a loan, transfer the planned EMI amount to a separate account that is not your spending account. If your basic needs or lifestyle get compromised, you're not ready for that loan.",
+    "Trading aside (sponsored by Upstox): a trader friend's key discipline is following stop-losses based on insight instead of chasing trades. Upstox's 'Nudge' feature reminds you when a stock moves past your stop-loss without blocking your action.",
+    "Fix your income first: frugality has limited impact when capital is low. Find your income bottleneck and push toward the maximum for your role, e.g. a 6 LPA service-company software engineer could reach about 40 LPA by moving to a product company, even with 2 years of experience.",
+    "Build a new income alongside your 9-to-5 (e.g. about 10 brands appeared after a viral coconut-milk reel). Don't bet all your savings; take calculated risks and use a trial period.",
+    "Kakeibo (Japanese): write down every expense and the reason for it (ate out because you couldn't cook, a special day, stress). Review weekly. Tracking the amount tells you how much goes out; tracking the reason tells you why, which guides future spending.",
+    "Learn from the right people: check whether the people you follow actually have the knowledge. Keep a separate YouTube account just for learning (podcasts, finance, study topics) so recommendations don't distract you.",
+    "Family financial checklist: an emergency fund your dependents can also reach quickly, health and life insurance for those who depend on your income, and a soft copy of policy details (co-pay, limits) accessible to whoever handles an emergency.",
+    "Set boundaries: you don't have to accept every trip or outing. Say no to invitations beyond your means, from trips down to daily coffee-shop spending. Ask whether you'd accept the invite if it came from someone else.",
+    "Start investing now: there is no right time, and even ₹1,000 counts. Your investing period started on the day you first earned, so waiting for a certain income or goal means you're already behind.",
+    "Don't flex generosity: overspending to look generous costs you in the long run. Putting that ₹500–1,000 into an SIP, stock or bond helps far more.",
+    "Question conventions: the fixed retirement age of 62 (many would burn out and about 50% would choose something different), inherited spending habits, and 'a job is safe' or 'business is cool' mindsets. Look through a wider lens to spot the right opportunity.",
+    "Per-day earning potential: monthly income ÷ 30. Set a target to double it within a year.",
+    "Have a yearly financial goal, such as a corpus to reach or an asset to invest in, and work toward it no matter what. The creator calls this his top habit of the last 5 years.",
+    "These small habits won't make you Ambani overnight, but over time they bring big change."
+  ]
 }
 ];
 
-window.LAST_UPDATED="2026-10-22T15:31:00+05:30";
+window.LAST_UPDATED="2026-10-22T21:49:00+05:30";
