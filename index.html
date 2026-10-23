@@ -73,7 +73,7 @@ aside{position:fixed;left:-270px;width:260px;z-index:20;transition:left .22s;box
 <div class="hero" id="hero"></div><div id="out"></div><div class="pager" id="pager"></div></main></div>
 <div class="scrim" id="scrim" onclick="sideOpen(false)"></div><div class="ov" id="ov" onclick="if(event.target==this)closeAll()"><div class="modal" id="md"></div></div>
 <div class="ov" id="po" onclick="if(event.target==this)closeAll()"><div class="modal pal"><input id="pi" placeholder="Jump to a note, category, or view…"><div id="pl"></div></div></div>
-<script src="notes.js?v=18"></script><script>
+<script src="notes.js?v=19"></script><script>
 const $=id=>document.getElementById(id),PER=12,COLORS=["#4f46e5,#9333ea","#0ea5e9,#2563eb","#f43f5e,#f97316","#10b981,#0d9488","#eab308,#f97316","#8b5cf6,#ec4899"];
 let S={nav:"all",cat:null,view:localStorage.view||"grid",page:1},fav=new Set(JSON.parse(localStorage.fav||"[]"));
 NOTES.forEach((n,i)=>{n.id=n.id||i+1;n.added=n.added||'2026-10-22';n.points=n.points||[];n.core=n.core||'';n.author=n.author||''});

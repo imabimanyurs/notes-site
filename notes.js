@@ -893,7 +893,150 @@ window.NOTES = [
     "Leg-press calf raises 4×10–12: a 2020 9-week study (22 subjects) found toes out grew the inner (medial) calf more, toes in the outer (lateral), and straight grew both evenly. Do out, in, straight, straight, or whatever feels strongest.",
     "Decline plate crunch 3×10–12 (abs on leg day since the hip flexors are warm): plate on chest, round the lower back and crunch the abs, don't just hinge at the hips. Add a rep or weight each session for progressive overload, which beats cardio-style ab circuits."
   ]
+},
+{
+  "id": 53,
+  "added": "2026-10-24",
+  "url": "https://youtu.be/FKTBkTzsmUA",
+  "title": "How To Actually Trade Inversion Fair Value Gaps (IFVG)",
+  "author": "TTrades",
+  "category": "Finance & Investing",
+  "core": "An inversion fair value gap (IFVG) is a fair value gap that isn't respected: price closes straight through it, so old resistance becomes support or vice versa. The common mistake is trading it as a bare pattern without higher-timeframe context. In TTrades' fractal model, a valid IFVG needs a higher-timeframe 'candle 2' that sweeps candle 1's high or low and has a small wick, which supports expansion. Then comes a V-shaped reversal with an inversion on the lower timeframe, ideally with SMT as extra confluence. Several adjacent gaps are treated as one, consolidation is avoided, and a large opposing wick means the expansion usually waits for the next higher-timeframe candle.",
+  "points": [
+    "A fair value gap (FVG) is a 3-candle pattern where candle 1's wick and candle 3's wick don't overlap, leaving a gap (bullish or bearish).",
+    "An inversion FVG forms when price swiftly closes over an FVG instead of respecting it, e.g. an expansion candle closing through it. Former resistance becomes support and vice versa, so you anticipate continuation in the new direction.",
+    "Most common mistake: ignoring higher timeframes and swing points, and just pattern-trading 'sweep + inversion', which often gets stopped out.",
+    "Use timeframe alignment. You're trading the higher-timeframe candle 2, so look for one that sweeps candle 1's high or low (liquidity at a key level) and has a small wick, which supports expansion.",
+    "Valid setup: candle 2 sweeps candle 1's high or low with a small wick, then a lower-timeframe inversion. For extra confluence, look for SMT between candle 1's and candle 2's highs or lows.",
+    "EUR/USD 15m example: early inversions were ignored because no candle supported expansion and no relevant high had been swept. The valid short came after sweeping a short-term high above the previous 4h high, with an inversion and change in the state of delivery, and continuation came on the next candle open.",
+    "When there are several FVGs in a row, treat them as one big gap and require a close through all of them. In one example this avoided a loss.",
+    "Avoid setups without a clean V-shaped reversal. Choppy consolidation after a sweep often just runs its own highs before reversing, so wait for another run of the lows.",
+    "Gold 3m example (30m candles): after consolidation lows were swept, the candle had a large opposing run, so it didn't support expansion. With a large opposing wick, expansion usually waits for the next higher-timeframe candle open, so enter there or on a continuation.",
+    "Entry and stop: you can enter on the next higher-timeframe candle open, with the stop allowed to reach into the FVG. Target the other side of the range or 2R. An inversion can also stand in for a change in the state of delivery to trade continuations.",
+    "Top-down example: after 3 days of expansion, don't trade the same direction; look for a reversal at the previous day high. The 4h candle 2 swept the high with a shallow wick, then the 15m inversions gave the entry (stop at the swing high, target 2R or the range low). It reached 2R after nearly stopping out.",
+    "Rule: if price rejects the inversion level once, that's fine if it quickly closes back through. Repeated failure and consolidation means waiting for a new high or low.",
+    "The same works with other timeframe pairs, e.g. 1h with 5m, using a candle 3 closure.",
+    "Summary: trade inversions inside a higher-timeframe expansion candle (small wick). With a large wick, expansion generally comes in candle 3. Want a V-shaped reversal and ideally SMT."
+  ]
+},
+{
+  "id": 54,
+  "added": "2026-10-24",
+  "url": "https://youtu.be/Rcf2t7ebjPg",
+  "title": "How I Trade IFVGs Differently (My Secret Trading Technique)",
+  "author": "DodgysDD",
+  "category": "Finance & Investing",
+  "core": "Finding an FVG and waiting for price to close through it isn't the edge; if it were, everyone trading IFVGs would profit. The edge is context: find the right IFVG, in the right direction, toward the right target. DodgysDD starts with where price is trying to go (a liquidity target), then checks location (not overextended, risk small relative to target), then the inversion with good momentum, and finally risk. The biggest mistake is using a higher-timeframe IFVG to form your bias. Direction and objective come first; the IFVG is just the vehicle for execution.",
+  "points": [
+    "A fair value gap is a 3-candle pattern where candle 1's high doesn't overlap candle 3's low (bullish), or candle 1's low doesn't overlap candle 3's high (bearish). Overlapping wicks mean it's not an FVG.",
+    "An inversion FVG happens when price flips the gap, but only with a candle close through it. A wick through doesn't count.",
+    "The inversion itself isn't the edge; context is. Any chart has dozens of FVGs and IFVGs, and trading every one gets you destroyed. The job is the right IFVG, in the right direction, with the right target.",
+    "Beginners start with 'where do I get in?'. He starts with 'where is price trying to go?', choosing a clear liquidity target such as a high, and then uses the IFVG to deliver to it with controlled risk.",
+    "Location: not every IFVG is equal. When bullish, avoid IFVGs high up after the move has already happened (overextended). Prefer entries near the bottom of the trend, where risk is small relative to the target and price is less likely to reverse first.",
+    "Before marking an IFVG ask: is this gap important? Why here, why now? Where will price reach if it works? If you can't answer, don't trade.",
+    "Entry: with a bullish bias and an upside target, when a bearish FVG inverts he doesn't buy automatically. He wants it to hold or push through with good momentum, e.g. 4 candles to push through one big red candle is a good ratio. Beginners should avoid more than ~7.",
+    "He trusts liquidity more than IFVGs. To avoid a big stop, drop to the 30-second chart for a confirmation setup; it's optional and depends on your risk.",
+    "He looks for IFVGs on 30-second to 5-minute charts and uses 15-minute and above mainly for bias.",
+    "Don't make a 15-step checklist. Order: target first, location second, inversion third, risk last.",
+    "Risk is part of the edge. Two people can take the same setup with opposite results because of risk management: oversizing, revenge trading or moving stops ruins good entries.",
+    "Mindset: a professional takes an A+ setup, loses, and would take the exact same trade again.",
+    "Biggest mistake: using a higher-timeframe IFVG to decide your bias. Stare long enough and you'll find a reason for anything. Direction first, then objective, then the IFVG as the vehicle.",
+    "Four questions: Where is price trying to go? Is the IFVG located somewhere that makes sense? Has price given enough confirmation for an entry? Is the risk worth the reward? If all four line up, he's interested."
+  ]
+},
+{
+  "id": 55,
+  "added": "2026-10-24",
+  "url": "https://youtu.be/uDJI2AbyyCs",
+  "title": "Inversion Fair Value Gaps (IFVG) - ICT Concepts",
+  "author": "TTrades",
+  "category": "Finance & Investing",
+  "core": "An ICT-concepts primer on inversions. An inversion occurs when a fair value gap is closed over or disrespected (a bearish gap, SIBI, closed above, or a bullish gap, BISI, closed below), after which price is expected to retrace into the old gap and continue, or simply continue. Consequent encroachment (CE), the 50% of an FVG, is the key level: respected, it supports continuation; violated, it signals the other direction. Examples show inversions for reversals after liquidity sweeps, CE entries to improve R, entries into an existing trend when opposing gaps fail, and using old FVGs from the other side of the curve for reaccumulation or redistribution.",
+  "points": [
+    "FVG: a 3-candle pattern where candle 1's low doesn't overlap candle 3's high, or candle 1's high doesn't overlap candle 3's low.",
+    "Inversion: an FVG is closed over or disrespected, e.g. a candle closes above a SIBI (bearish FVG). Expect price to retrace into that zone, respect it and move on, or just keep going.",
+    "Consequent encroachment (CE) is 50% of the FVG (draw a fib from its high to its low). Price respecting CE suggests continuation; violating it suggests the opposite move.",
+    "EUR/USD example: after an hourly sweep of buy stops, a 5m bullish FVG (BISI) closes below and inverts. Enter at market or on a retest, stop above an opposing candle, and target the lows (sell-side liquidity). It hit the lows.",
+    "After sweeping external liquidity (old lows) and closing back inside, price tends to go to internal liquidity, which frames a trade in the opposite direction.",
+    "Improving R: if the entry at the inversion with a stop at the low gives only ~1R to the target, enter at the CE of the old gap instead. It filled and ran into the hourly FVG.",
+    "NQ 2m example: in consolidation, wait for external range liquidity (a high or low) to be hit. After a sell-side sweep, closing over CE is a hint, but he requires a full close over the SIBI. Then enter on the return, stop at the low, and target the other side of the range for partials or full profit.",
+    "Inversions within a trend: in an uptrend, opposing gaps that form on retracements (e.g. at a propulsion block) and then get closed over are opportunities to enter with the trend for the next higher high.",
+    "Old FVGs on the other side of the curve: after a smart money reversal (change in state of delivery, inversion, market structure shift) to the buy side, old sell-side FVGs that get traded above can act as support for reaccumulation. Old BISIs work the same for redistribution.",
+    "Gold daily example: with equal highs above, closing over a SIBI and down-close candles plus a short-term low confirms the smart money reversal. Price reaches back into an old FVG, holds, and sweeps the buy-side liquidity."
+  ]
+},
+{
+  "id": 56,
+  "added": "2026-10-24",
+  "url": "https://youtu.be/-xLZ2ekyja4",
+  "title": "Five A+ iFVG Setups with Full Explanation",
+  "author": "DodgysDD",
+  "category": "Finance & Investing",
+  "core": "DodgysDD walks through five A+ IFVG setups and what makes them A+. There must be a fair value gap to the left (same or higher timeframe), a liquidity sweep into that gap, and an inversion out of it with momentum. The setup should also be on the right side of the range: buys in discount below 50%, ideally near the low of day; sells in premium. The stop is typically a close back through the gap. Combine adjacent small gaps into one. The lowest entry right after the sweep is A+, while a later, higher second entry is only an 'A'.",
+  "points": [
+    "Checklist for every A+ setup: an FVG to the left (higher timeframe such as 15m or hourly, or the same timeframe), a liquidity sweep into it, then an inversion FVG out of it. He offers a free PDF rating guide.",
+    "Example 1 (ended break-even): swept a cluster of lows into a 5m FVG, in discount (below 50% of the range). A single FVG broke with decent momentum, entry on the close above. He scaled half at a 50% level and the rest went to break-even.",
+    "Stop loss: typically a close back below the FVG. In that trade he used a hard stop under an order block.",
+    "A clean single V-shaped move back up after the sweep is a hallmark of an A+ setup. Targets depend on unbalanced FVGs above.",
+    "Example 2 (short): with the narrative bearish (engineered liquidity below, a lower low), price retraced to 50% of that leg, so it counted as premium. It delivered from an FVG to the left, swept a high inside it, then closed below for entry. He calls this his 'one setup for life'.",
+    "Example 3: several small gaps combined into one; a candle closing over all of them still counts. Manipulation tapped an hourly FVG to the left, then a big candle closed over: discount, low of day, V-shape, swept liquidity. He targeted ~2R at an FVG above. Targets are subjective.",
+    "Example 4: two gaps combined, swept a low inside the FVG near (not at) the low of day, then high-momentum inversion. Not a high-R trade, but the concept is what counts.",
+    "Example 5 (15m): swept stacked lows while delivering from an hourly FVG, very low in the range, then a 15m inversion. The first, lowest entry right after the sweep is A+. The later, higher second entry would only be an 'A'.",
+    "Same concepts apply on every timeframe.",
+    "Distinguishing A+ from A setups is what turns students profitable. He cites a mentorship student who got her first and second payouts (~$1,200).",
+    "The video also promotes an Apex discount code, his Discord and his paid mentorship."
+  ]
+},
+{
+  "id": 57,
+  "added": "2026-10-24",
+  "url": "https://youtu.be/Y48WCuJ-gy0",
+  "title": "This is why I love the IFVG in any market! | ICT Concepts",
+  "author": "PJ Trades",
+  "category": "Finance & Investing",
+  "core": "In a trade review, PJ Trades took a counter-trend NASDAQ short on a day he was bullish overall. A bearish SMT formed at the London high: NQ failed to take it while ES swept the Asia and London highs. Then a V-shaped failure inverted a 2-minute bullish FVG, with clean relative equal lows below as the draw. He waited for a pullback into a bearish FVG inside the inversion, shorted with the stop above it, and exited at the lows and 5-minute bullish FVG/BPR for 30–40 points. Price later rallied to the London and Asia highs. He likes the IFVG model because it appears far more often than unicorn or breaker setups, even on choppy days.",
+  "points": [
+    "Context: bullish into the session with draws at the London and Asia highs. No clean AM long setup, so he waited.",
+    "Bearish SMT: ES swept the Asia and London highs while NQ failed to take the London high (15m SMT). Big tech stocks were flat or down, which pointed to short-term weakness.",
+    "Relative equal lows (triple, around 10:44–10:51) formed on the 1m. The market likes to draw into these for liquidity. A 5m bullish FVG sat just below them.",
+    "Plan: if price V-shaped off the SMT and inverted the 2m bullish FVG, short into the equal lows and exit at the lows or the 5m bullish gap, since he was still bullish overall.",
+    "The 2m FVG inverted, and a bearish FVG formed inside the inversion. If price had dropped straight to the lows without pulling back, he'd have missed it. He needed the close, then a pullback into the 2m zone.",
+    "Entry: short on the pullback into the 2m bearish gap, stop above that gap, target the relative equal lows. Almost no drawdown and a quick move to full take profit, about 30–40 points.",
+    "Exit at the 5m bullish FVG/BPR, a balanced price range where bullish and bearish gaps overlap, which acted as strong support. Later in the PM session price exploded up to the London and Asia highs.",
+    "Why he loves the model: it offers many more opportunities than the unicorn or breaker models and works on lacklustre, sideways days. It can be used wherever there's an SMT, liquidity sweep, manipulation or V-shaped recovery.",
+    "The video also promotes his free Discord, where trades are posted first."
+  ]
+},
+{
+  "id": 58,
+  "added": "2026-10-24",
+  "url": "https://youtu.be/LXBhPkd-1aw",
+  "title": "This Boring iFVG Trading Strategy Made Me $559,299 (Proof Inside)",
+  "author": "dhesi_trades",
+  "category": "Finance & Investing",
+  "core": "Dhesi argues that consistency in trading comes from one 'boring' setup run every day and judged over hundreds of trades, not from switching systems after a few losses (the 'restart loop'). His process: (1) a pre-market plan marking the higher-timeframe point of interest (e.g. a daily FVG), the draws on liquidity (unmitigated hourly or 4h FVGs, highs) and if-then scenarios; (2) entry only when the lower timeframe aligns, via a 5m or 15m (sometimes 1m) inversion FVG after price taps the higher-timeframe array; (3) a stop at the true point of invalidation, sized down if wide; (4) planned exits: trim at TP1 and move to break-even, trim at TP2 and move the stop to TP1, and run the rest to the next draw. He judges days by process, not P&L.",
+  "points": [
+    "He claims over $500K in one month from this one setup and trades live daily on YouTube, showing executions and P&L.",
+    "The 'restart loop': after a few losses traders hop from EMAs to supply and demand to trendlines to order flow, restarting from zero each time and never building data. The problem isn't the system; it's the missing data.",
+    "Judge a model over 300–500 trades, not 2, 10 or 20. Even after 10 losses in a row he takes the 11th identical trade because the long-run data shows it's profitable.",
+    "Hesitation at 9:30 comes from deciding on the spot. Plan the day before the open. Example: short-biased, NQ ran 100 points up, he stuck to the plan and caught a 200-point reversal.",
+    "Pre-market plan (Oct 6 example): after a strong higher-timeframe rally targeting all-time highs, align with a pullback. If price reaches the daily FVG, look for higher prices.",
+    "Plan the draw on liquidity too. He likes unmitigated (untapped) hourly FVGs as places to go break-even or trim.",
+    "Higher and lower timeframe must align. A higher-timeframe FVG tap alone isn't enough. Wait for a strong rejection and a 5m or 15m FVG or inversion. An IFVG is the highest-probability reversal entry. Avoiding the 1m generally gives higher probability.",
+    "The entry is the last piece. The pre-market plan, your state of mind and risk management matter more, and news candles can dictate outcomes.",
+    "Live example: price moved into the daily FVG, kept rejecting a 5m FVG, then inverted it. Checklist: liquidity swept (into the daily FVG)? LTF aligned with HTF? High-probability draw to target? All yes, so enter.",
+    "Stop at the 'point of invalidation', where the bias is wrong if reached, not at a random level like the IFVG low. In a 1m IFVG example off a 4h FVG, a stop at the IFVG low would have been hit. The low of day was the true invalidation, and the trade became a 2R winner.",
+    "Favour probability over risk:reward. Any R above 1 with a proper stop is fine; 1.5R–2R trades are OK.",
+    "A wide stop doesn't matter if you size down. A 100-point stop with 5 micros risks $500; at 150 points, use 3–4 micros. A wider stop with smaller size helps you hold trades.",
+    "Exits are pre-planned: TP1, TP2, TP3 at liquidity. He turned a $50K live account into over $400K in August by actually taking profits.",
+    "Management: at TP1 (if at least 1R, e.g. relative equal highs at 1.3R) trim half and move to break-even. If TP1 is under 1R, only go break-even. At TP2, trim half of the rest and move the stop to TP1. If no further draw, exit fully.",
+    "Next draw example: an unmitigated 4h FVG on ES became the final target, naturally turning a 2R trade into 3R without micromanaging.",
+    "The same process works on higher timeframes. He swing-trades LEAPS from monthly and weekly FVGs. Your own data shows which conditions suit you; he prefers daily, weekly and monthly FVGs.",
+    "The worst outcome is winning a low-probability trade with no plan; it's like a beginner's blackjack win.",
+    "Judge days by process. Red but followed the process is a win; green with a bad process is a bad day. 25 boring days led to a $936K payout, which he calls a top-10 prop-firm payout. 'Slow down to speed up.'",
+    "The video promotes his paid community and links; it claims members' payouts and 10K months."
+  ]
 }
 ];
 
-window.LAST_UPDATED="2026-10-23T00:10:00+05:30";
+window.LAST_UPDATED="2026-10-24T01:16:00+05:30";
