@@ -1036,7 +1036,37 @@ window.NOTES = [
     "Judge days by process. Red but followed the process is a win; green with a bad process is a bad day. 25 boring days led to a $936K payout, which he calls a top-10 prop-firm payout. 'Slow down to speed up.'",
     "The video promotes his paid community and links; it claims members' payouts and 10K months."
   ]
+},
+{
+  "id": 59,
+  "added": "2026-11-04",
+  "url": "https://youtu.be/Tn-XvYG9x7w",
+  "title": "Get Abs In 60 Days (Using Science)",
+  "author": "Jeff Nippard",
+  "category": "Health & Fitness",
+  "core": "Visible abs depend on two things: enough ab muscle and low enough body fat. Abs show around 20% body fat for men (well defined around 10%), and the sweet spot is roughly 10–20% for men and 18–28% for women. Train abs like any other muscle with progressive overload: just a weighted crunch and a leg raise, 3 sets each, twice a week, with the last set to failure. Fast 'fat-burning' circuits are basically cardio. Eat bodyweight (lb) × 10–12 calories with goal weight (lb) × 0.8–1 g protein and at least 50 g fat. Lose 0.5–1% of bodyweight a week, take diet breaks on long cuts, track with photos and waist measurements, and don't chase extreme leanness. Supplements worth taking: protein powder, creatine and caffeine.",
+  "points": [
+    "Body fat reference (men): at 30% the stomach is flatter but abs aren't visible. Abs appear around 20%, a well-defined six-pack comes around 10% if the abs are trained, and about 6% is contest-shredded (a natural bodybuilder at 6.2% by DEXA).",
+    "Six-pack sweet spot: about 10–20% for men and 18–28% for women, where abs show without the side effects of extreme dieting. Genetics fix the shape (he has more of a four-pack at ~10%), but training makes the abs pop.",
+    "Ab training isn't a waste of time. Nobody says to skip shoulder training until you're lean. You need enough muscle for the abs to pop when you cut.",
+    "Fast circuit-style 'fat-burning' ab workouts don't take the abs close enough to failure to cause hypertrophy. They're essentially cardio. Use progressive overload with added weight instead.",
+    "Exercise 1: a weighted crunch. Cable rope crunch kneeling (let the lower back round, squeeze the abs, don't yank with the hands) or a plate-loaded crunch. Do 3×10–12, twice a week, last set to failure, and add weight or a rep each session with controlled form. It slightly emphasises the upper four-pack.",
+    "Exercise 2: a leg raise for lower-ab bias. Hanging or on a Roman chair (he prefers the chair because it locks the lower back); bent-knee raises if straight legs are too hard. Do 3×10–20, twice a week, last set to failure. Progress by adding one rep a week from 3×10 to 3×20, then add ankle weights or slower negatives.",
+    "Planks are good for general core strength but are optional for a six-pack. Anti-rotation work targets the transverse abdominis and obliques but hits the six-pack less directly than weighted crunches and leg raises.",
+    "Cardio is optional but smart. New research shows weights plus cardio gives smaller waists than weights alone, lets you eat more and helps keep weight off. Do 2–5 sessions of 30 minutes at low to moderate intensity a week.",
+    "Diet: calories = current bodyweight (lb) × 10–12; protein = goal bodyweight (lb) × 0.8–1 g; at least 50 g fat a day; the remaining calories are free (carbs, fat or protein).",
+    "Hitting the targets matters more than food choice (the 6.2% bodybuilder ate Pop-Tarts regularly), but mostly eat minimally processed whole foods.",
+    "Metabolisms differ, so these numbers will be a bit high for some people and a bit low for others. Adjust them.",
+    "Lose about 0.5–1% of bodyweight a week (1–2 lb a week at 200 lb) to avoid losing muscle and strength and rebounding.",
+    "For cuts longer than 3 months, take a 2–3 week diet break in the middle at bodyweight (lb) × 16–18 calories. Most people lose weight better after the break.",
+    "Don't rely only on the scale, especially when building muscle while losing fat. Take progress photos in the same lighting at least monthly and measure your waist monthly.",
+    "Don't set too lean an end goal. Below about 8–10% for men or 18–20% for women, expect low energy, extreme hunger and reduced libido.",
+    "Supplement 1: protein powder. It isn't required but makes the protein target easier; he has 30–50 g after training for convenience, not because of an anabolic window.",
+    "Supplement 2: creatine monohydrate, 5 g daily. Timing doesn't matter and there's no need to cycle it. Decades of research show no negative side effects and real gains in strength and muscle. It won't make you look watery, but about 25% of people don't respond.",
+    "Supplement 3: caffeine (pre-workout, coffee or tablets). It has a small thermogenic effect, but long-term fat-loss benefit is unclear. He takes it for focus. Tolerance builds, so use it only when needed or cycle off for a few weeks every few months.",
+    "The video ends with a promotion for his MacroFactor nutrition app (2-week free trial)."
+  ]
 }
 ];
 
-window.LAST_UPDATED="2026-10-24T01:16:00+05:30";
+window.LAST_UPDATED="2026-11-04T13:51:00+08:00";
