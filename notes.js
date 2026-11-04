@@ -1066,7 +1066,105 @@ window.NOTES = [
     "Supplement 3: caffeine (pre-workout, coffee or tablets). It has a small thermogenic effect, but long-term fat-loss benefit is unclear. He takes it for focus. Tolerance builds, so use it only when needed or cycle off for a few weeks every few months.",
     "The video ends with a promotion for his MacroFactor nutrition app (2-week free trial)."
   ]
+},
+{
+  "id": 60,
+  "added": "2026-11-04",
+  "url": "https://youtu.be/Y0nXmTZ1Ibs",
+  "title": "The ONLY 2 Exercises You Need For Six Pack Abs",
+  "author": "Jeremy Ethier",
+  "category": "Health & Fitness",
+  "core": "Defined abs aren't only about low body fat. Bigger abs poke through fat more, and a 2017 study found 10 weeks of ab training grew soccer players' abs by about 2–3 mm. Most popular ab moves (planks, flutter kicks, flat-back leg raises) mostly train stabilisation or the hip flexors. The abs' real job is rounding the spine to bring ribcage and pelvis together, so think 'C-shape, not L-shape'. Jeremy's two picks: reverse crunches for the lower abs (pelvis toward torso) and crunches progressing to rope cable crunches for the upper abs (torso toward pelvis). Both are best with a stretch at the bottom. Do 3 sets of 6–12 with progressive overload, 1–2 times a week, plus fat loss.",
+  "points": [
+    "Some lean people have no visible abs while others with more fat do. Genetics play a part, but so does how you train them.",
+    "2017 study: 28 soccer players trained abs for 10 weeks, even with suboptimal exercises. Upper abs grew 2.1 mm, middle 1.9 mm and lower 2.7 mm. A few mm makes a visible difference.",
+    "Two ways to more visible abs: reduce the fat layer, or grow the abs so they poke through. Growing them is especially useful for hard gainers with naturally thin abs.",
+    "Planks and flutter kicks build core strength but do next to nothing for ab growth; they only stabilise. 'Planking for bigger abs is like wall-sitting for bigger quads.'",
+    "The abs' main function is bringing ribcage and pelvis together by rounding the spine. Myth: keep your back straight during ab exercises. Flat-back leg raises in an L-shape mostly work the hip flexors.",
+    "Regional growth: muscle closest to the moving body part seems to grow most (leg curls grow lower hamstrings more than deadlifts), so move the lower body toward the upper body for lower abs.",
+    "Muscles seem to grow best when challenged in the stretched position, and leg raises are hardest at the top. He's funding a study on this.",
+    "Lower abs: reverse crunch on a bench. Bend the knees in, raise the hips and crunch the knees toward the chest to round the spine. Go as high as you can, then lower slowly.",
+    "Beginner version: knees closer to the chest, just lift the tailbone off the bench without swinging. Progress by going higher, then gradually straightening the legs. An ab mat under the lower back adds stretch at the bottom.",
+    "Upper abs: fold the upper body toward the lower body. Beginners do crunches, folding the chest toward the pelvis in a C-shape with the shoulder blades just off the floor; higher brings in the hip flexors. Use an ab mat, stability or BOSU ball, or a rolled towel for more stretch.",
+    "Advanced: rope cable crunch. Hips locked at 90° (no swinging back to the heels), arms by the ears, the spine extends on the way up and rounds on the way down. Progress to facing away from the cable, lighter and with a longer rope, which makes the start position harder.",
+    "Train abs like any muscle: hard, with progressive overload, plus rest. Do 3 sets of 6–12 reps per exercise. Once you hit 12 reps on all 3 sets, make it harder or add weight. Start once a week, or twice if serious.",
+    "Even big abs stay hidden under too much fat, so combine ab training with a fat-loss plan. The video plugs his Built With Science programs."
+  ]
+},
+{
+  "id": 61,
+  "added": "2026-11-04",
+  "url": "https://youtu.be/8D_ItZBvbmk",
+  "title": "GET ABS IN 2 WEEKS CHALLENGE | How To Get Six Pack Abs | 6 Pack Abs Workout | Cult Fit | CureFit",
+  "author": "wearecult",
+  "category": "Health & Fitness",
+  "core": "A follow-along, equipment-free home ab workout from Cult.fit trainer Kinnor, meant to be repeated daily for 14 days. It has 10 moves: jumping jacks, leg raises, flutter kicks, scissor kicks, feet-off crunches, windshield wipers, plank knee-to-elbow, jumping mountain climbers, alternate V-sit-ups and a hollow hold, with form cues for each. He stresses form over speed to avoid injury, plus eating clean, hydration and sleep for visible abs. By his own admission, 14 days gives a stronger core, while visible six-packs take longer, especially for beginners.",
+  "points": [
+    "Claims to suit anyone (20 or 40, beginner or regular gym-goer). No equipment, just a mat. Follow along and repeat daily for 14 days.",
+    "1. Jumping jacks: a warm-up to raise the heart rate. Don't jump too wide, keep a steady pace, arms all the way up.",
+    "2. Leg raises: lower abs and core. Lie back with the upper body slightly up, eyes on the toes, legs straight and knees locked. Keep the lower back flat (hands under the glutes if needed). Breathe; don't hold your breath.",
+    "3. Flutter kicks: lower abs, hip flexors and quads. Hold the hollow position (lower back on the ground, eyes on the feet) and kick the legs up and down.",
+    "4. Scissor kicks: lower abs and inner thighs. Legs lifted, crisscross, hands under the glutes or beside the thighs if the lower back stays flat.",
+    "5. Feet-off crunches: upper abs, with the lower abs engaged by keeping the feet off the ground. Hands behind the head, exhale up, hold 1–2 s at the top, inhale down.",
+    "Form is the most important thing. Don't rush through many reps and get injured. For visible abs: eat clean and fresh, stay hydrated, sleep well.",
+    "6. Windshield wipers: obliques. Arms out in a T, legs together and off the floor, swing side to side. Bend the knees or do half wipers if needed.",
+    "7. Plank knee-to-elbow: elbows under the shoulders, head forward, push the floor away, hips level, neutral spine. Exhale as knee touches elbow (obliques, lower abs).",
+    "8. Jumping mountain climbers: lower abs plus cardio. Solid high plank, hips level, look forward, jump the knees in and out. Do single-leg climbers if tired.",
+    "9. Alternate V-sit-ups: whole core plus internal and external obliques. Keep shoulders and legs up before starting and reach alternately to the toes. Easier option: lie back between reps.",
+    "10. Hollow hold: shoulders off the floor, legs straight and lifted, squeeze the arms in, hands on the thighs (arms overhead to make it harder). Called the gateway to advanced core moves.",
+    "Expectations: after 14 days with the right nutrition you'll notice a stronger core and some changes. Beginners need more time; 'things happen over time, not overnight.'",
+    "Includes a plug for the Cult.fit/CureFit Live app (14-day free access via link)."
+  ]
+},
+{
+  "id": 62,
+  "added": "2026-11-04",
+  "url": "https://youtu.be/7ZJtYjIl4iI",
+  "title": "HOW I GOT ABS IN 30 DAYS!!! 🏋️‍♂️ - My One Month 6-Pack Results 🔥🔥",
+  "author": "Tharun Kumar",
+  "category": "Health & Fitness",
+  "core": "Tharun Kumar documents a 30-day 'mini cut' to bring his abs back. Managing his team and transformation-program clients had pushed him to a worse shape than his December 2019 low. He started at 175 cm, 68.5 kg and an estimated 23–25% body fat, with three goals: lose about 1–2% body fat per week with an aggressive but short cut, rebuild lost strength, and focus more on abs (4 sessions a week instead of 1–2). He ate 150 g+ protein daily in a big calorie deficit and did daily cardio (200, then 250, then 300 kcal per week). He trained every muscle twice a week with weekly progressive overload, and his main supplements were whey, creatine and a caffeinated pre-workout. Weight fell to about 64.3 kg, roughly 5 kg lost, with visible ab definition, a jawline, back separation, biceps veins and shoulder striations. (Transcribed from Tamil and English via WhisperAI.)",
+  "points": [
+    "Background: he first got out of shape in December 2019, then dieted and trained for 4 months down to about 13% body fat. Recently he fell to a worse shape because he was juggling too much: a team of 8 and hundreds of clients on his transformation program.",
+    "He's not a beginner; he previously got abs in about 90 days, so he knew how his body would respond. He says consistency for 90–120 days can bring similar changes for others.",
+    "He followed the diet, workout and cardio from his own 120-day program.",
+    "Starting point: 175 cm, 68.5 kg, about 23–25% body fat. Estimate yours from reference photos. He hadn't trained or dieted properly for two months, and his photos were taken with no pump and poor lighting.",
+    "Goal 1: lose about 1–2% body fat per week. It was a short mini cut (originally planned as 60 days), so he went aggressive and fast, confident he could rebuild any lost muscle later.",
+    "Goal 2: rebuild strength lost after months without proper training.",
+    "Goal 3: focus more on abs. He'd always prioritised size and trained abs only 1–2 times a week; this time 4 times a week. Hanging leg raises for the lower abs were a main exercise.",
+    "Diet: cut calories sharply for fast fat loss and ate over 150 g protein every day for 30 days. He suggests the HealthifyMe app to log meals and see calories and protein.",
+    "Cardio daily: 200 kcal a day in week 1, 250 in week 2, 300 in weeks 3–4.",
+    "Training principles (you needn't use his program): hit every muscle (biceps, chest, lats and so on) twice a week, and apply weekly progressive overload by doing slightly more than the previous week.",
+    "Supplements: (1) whey protein for convenience (optional); (2) creatine; (3) a pre-workout with high caffeine to make up for the low energy of very low calories. You can do it without supplements; what matters is knowing why you use them.",
+    "Weekly average weight check-ins included about 66 kg, then 64.9 kg, then 64.3 kg, roughly 5 kg lost.",
+    "Changes: abs went from barely visible (only the top two when straining) to well-defined, which he credits partly to training abs 4 times a week. A jawline appeared. Back muscles separated in a double-biceps pose, biceps veins showed up on any workout, and shoulder striations appeared.",
+    "He didn't expect this much change in 30 days using his own program, and he promises a 'full day of eating' video if it gets 20K likes."
+  ]
+},
+{
+  "id": 63,
+  "added": "2026-11-04",
+  "url": "https://youtu.be/x-Hd8w_yFH0",
+  "title": "How I solved Skinny-Fat (Easily)",
+  "author": "Captain Workout",
+  "category": "Health & Fitness",
+  "core": "Skinny-fat means looking okay in clothes but soft without a shirt, with handholds of waist fat, no muscle definition and low strength for your training age. The fix is body recomposition, not bulking or crash-cutting. Avoid three mistakes: the wrong eating approach, endless intense cardio and extreme trendy diets. The 4-step plan: (1) eat at maintenance or a ~15% deficit, (2) prioritise protein, (3) train with progressive overload on a structured program, (4) fix lifestyle with 7,000–10,000 steps, 7+ hours of sleep and consistency. Track food, lifts and steps. Judge progress by strength, photos and measurements rather than the scale. Expect clear change in about 3 months and a transformation in about 6.",
+  "points": [
+    "Signs you're skinny-fat: you look decent clothed but have a soft belly and flat chest shirtless; you can grab a handful of waist fat (love handles); no visible definition (no veins, shoulder caps or chest line); and low strength for how long you've trained, e.g. a year of lifting and you can't bench bodyweight.",
+    "Mistake 1: eating wrong. Bulking ('eat big to get big') just makes you softer. Aggressive cutting just makes you smaller, because there's little muscle to reveal and a big deficit is the worst place to build muscle.",
+    "Good news: skinny-fat people are well placed for body recomposition, building muscle and losing fat at the same time.",
+    "Mistake 2: endless intense cardio on top of lifting. Recovery and energy drop, workouts suffer, muscle building stops, and most people quit within about 4 weeks.",
+    "Mistake 3: trendy extreme diets (keto, carnivore, zero-carb). The problem is psychological: carbs become the enemy, a perfect week is followed by a weekend binge, guilt and a Monday restart. Eat normally: right total calories, enough protein, balance. Carbs don't make you fat; overeating does.",
+    "Step 1: eat at maintenance or a slight deficit of about 15% to speed things up. Find maintenance with an online TDEE calculator (height, weight, activity), then hit that number and macros consistently for weeks. Too much keeps the fat; too little prevents muscle gain.",
+    "Step 2: prioritise protein. The video states 1.6–2 g per pound of bodyweight; the usual evidence-based figure is 1.6–2.2 g per kg, so 'pound' is likely a slip. Fill the rest with carbs and fats. Protein builds muscle and protects it while losing fat. Easy sources: Greek yogurt, protein shakes, eggs.",
+    "Step 3: train like you want muscle. Use a structured program with progressive overload and add weight or reps weekly, e.g. bench 135 to 140 lb, or 10 to 12 reps. Push the last reps close to failure with controlled good form, not ego lifting.",
+    "Step 4: lifestyle. 7,000–10,000 steps daily, non-negotiable (walk on calls, with podcasts, after meals) instead of brutal cardio. At least 7 hours of quality sleep for recovery, muscle and hormones. Consistency: 80% adherence for 6 months beats 100% for 3 weeks then quitting.",
+    "Track everything: food (calories and protein), workouts (exercise, weight and reps in notes or a sheet, compared week to week) and steps (phone). Data reveals the problem.",
+    "The scale isn't enough; the same weight can look soft or athletic. Better signals: lifts rising weekly, weekly photos with the same lighting, time and pose compared monthly, the waist staying the same or shrinking, and arms, chest and shoulders the same or growing.",
+    "Timeline (varies; you can't spot-reduce): first weeks, strength and energy up; 1 month, subtle changes and a slightly tighter waist; 3 months, clear mirror difference and people notice; 6 months, unrecognisable. Most fail by expecting 6-month results in 3 weeks and plan-hopping.",
+    "Includes a sponsored segment for the Cal AI calorie-tracking app."
+  ]
 }
 ];
 
-window.LAST_UPDATED="2026-11-04T13:51:00+08:00";
+window.LAST_UPDATED="2026-11-04T13:58:00+08:00";
