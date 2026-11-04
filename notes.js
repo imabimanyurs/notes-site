@@ -1202,7 +1202,90 @@ window.NOTES = [
     "Act with conviction but question everything: attack an idea from every angle, discard bad versions, seek input and iterate. His rhythm alternates intense interactive office time with solo deep-thinking blocks at home; either alone would fail. With his kids he tries to be fully present.",
     "On his kids growing up in an AI world: he trusts people to adapt and thrive and expects the world to keep getting much better. Next extraordinary thing: AI that discovers new science (recent maths results surprised him), such as physics insights, medical treatments and energy sources. The cost of the role is tiring and stressful, with others' anxieties projected onto him, but he feels lucky and doesn't see it as suffering."
   ]
+},
+{
+  "id": 65,
+  "added": "2026-11-04",
+  "url": "https://youtu.be/uct7iPdq17A",
+  "title": "How To Force Your Stubborn Fat To Leave",
+  "author": "Kaizo",
+  "category": "Health & Fitness",
+  "core": "Lower-belly and love-handle fat is the last fat the body gives up. Waiting it out takes forever, but five fixes speed it up. (1) Do a 10-minute ab circuit right before cardio; a study found this lost about 700 g more trunk fat than cardio alone over 10 weeks. (2) Take a planned week at maintenance every 6–8 weeks of cutting. (3) Drink one black coffee 30 minutes before cardio, and wear pants at your real waist so they don't push fat into a roll. (4) Sleep about an hour more to eat around 270 fewer calories a day. (5) Most important: build up incline walking toward 150, then 300 minutes a week, long enough for fat loss to finally reach the belly and sides.",
+  "points": [
+    "Crunches alone don't touch belly fat: in one study, 6 weeks of ab work 5 days a week gave stronger abs and the same stomach.",
+    "Part 1, order matters: men who did an ab circuit straight before the treadmill lost about 700 g more trunk fat over 10 weeks than treadmill-only men. 'Wake up the muscle under the fat first, then let the cardio burn it.'",
+    "Circuit before every cardio session (about 10 minutes): plank 30 s, reverse crunches ×10 (knees over hips, slowly curl the tailbone up, legs still), side plank 30 s each side (for the love handles). Rest a minute and do 2 rounds, then go straight to cardio with no phone break.",
+    "Progression: when 30 s is easy go to 45 s, then add a third round.",
+    "Part 2, diet breaks: a non-stop cut gets harder every week (hunger, heavy lifts, weekend binges), which is how 12 weeks becomes a year. Men dieting 2 weeks on and 2 weeks off at maintenance lost about 4 kg more fat than continuous dieters.",
+    "How: after every 6–8 weeks of cutting, eat at maintenance for 7 days. Keep protein and fat the same, add the extra as carbs (rice, potatoes, oats), and keep lifting the same. The small scale rise is water and glycogen. It's not a cheat week ('a relapse with a plan'). If you're desperate for a break 2 weeks later, the cut is too harsh; eat a bit more daily.",
+    "Part 3a, coffee: caffeine shifts fuel use toward fat, up to 30% more fat burned in a session, most of all in the afternoon. Have one strong black coffee 30 minutes before cardio (not a syrupy latte), at least 8 hours before bed. Don't stack fat burners and pre-workout on top.",
+    "Part 3b, waistband: low, tight pants squeeze side fat up into a 'love handle'. Wear them at belly-button height with 2 fingers of room; the belt holds the pants, not you.",
+    "Part 4, sleep: about an hour more sleep means roughly 270 fewer calories eaten a day, about 1 kg of fat a month. Keep a fixed wake time (weekends too), set a bedtime alarm 8.5 hours before it, charge the phone across the room, keep the room dark and cool, and eat the last meal 2 hours before bed.",
+    "Don't trade sleep for 5 AM cardio; you eat the burn back by lunch. If still short on sleep, move bedtime 15 minutes earlier weekly until you wake before the alarm.",
+    "Part 5, incline walking (the biggest mover): fat comes off everywhere, with the lower belly and sides last, so you need sustained weekly fat loss. Incline walking is hard enough to burn fat but easy enough not to wreck lifting legs, and people stick with it ('Sprints? You quit. Walking? You keep.').",
+    "Setup: 10% incline at about 5 km/h, breathing hard but able to talk, hands off the rails. Start at 30 minutes 3×/week and add 5 minutes per session weekly up to 150 min/week, then build toward 300. A review of 100+ studies found 5 hours of cardio a week took about 4 cm off the waist.",
+    "Split walks count the same (2 × 30 minutes = 1 hour). Lift first, then walk. No treadmill? Use the steepest hill or stairs. At 300 minutes, raise the incline rather than adding time; lower it if you have to grab the rails.",
+    "Don't eat it back: the machine's '500 calories' is usually lying. Judge after 8 weeks, not 8 days. Take a side photo now and every 2 weeks with the same light and pose.",
+    "Tonight: 2 rounds of the ab circuit, then a 30-minute walk."
+  ]
+},
+{
+  "id": 66,
+  "added": "2026-11-04",
+  "url": "https://youtu.be/IoelXnaJvVc",
+  "title": "The Fastest Way to 12% Body Fat (At Any Age)",
+  "author": "Doctor Mike Diamonds",
+  "category": "Health & Fitness",
+  "core": "Dr Mike Diamonds (an MD and natural bodybuilder who runs Sculpt by Science) lays out his 'mechanical rules' for getting from 30%+ to about 12% body fat, with extra emphasis on men over 35. Rule 0 is mindset: write 5–10 real reasons so 'should' becomes 'must'. Rule 1 is cortisol control through a sleep routine he calls 14-10-3-2-1. Rule 2 is time-restricted dieting: start at bodyweight in lb × 13 calories, use 30/40/30 macros, cut 100 calories when the 14-day average stalls, and narrow the eating window in stages. Rule 3 is building muscle to keep the fat off. Rule 4 is walking, stepping up 1,000 steps a week toward 15K. Rule 5 is a daily routine combining them all. Rule 6, for over-35s, is getting a blood panel because hormones and metabolic markers change. The final third is largely a pitch for his paid doctor-led coaching program.",
+  "points": [
+    "Rule 0, mind first: 'the body follows the mind'. Write 5–10 real, even embarrassing, reasons you want to be leaner. 'Decision' shares a root with 'incision': cut off other options. Your body is a lagging indicator.",
+    "Rule 1, cortisol control (which he calls 'anti-testosterone'): high cortisol breaks down muscle and parks fat in the midsection. It should peak in the morning and fall by night, which sleep decides.",
+    "Study (University of Chicago): 10 overweight adults, average age 41, ate 1,450 kcal twice, 2 weeks each. Weight loss was the same (about 6.5 lb), but on 8.5 hours of sleep about 3 lb was fat, while on 5.5 hours only about 1 lb was fat and the rest lean tissue. That's 55% less fat and 60% more muscle lost, with more hunger.",
+    "Sleep routine '14-10-3-2-1' (for a 10 PM bedtime): morning sunlight in your eyes by 14 hours before bed (8 AM), no caffeine 10 hours before (noon), no food 3 hours before (7 PM), last liquids 2 hours before (8 PM), no screens 1 hour before.",
+    "Rule 2, time-restricted dieting. Calories: start at bodyweight in lb × 13 (client Donnie, 215 lb, got 2,700 kcal). Starving at 1,200–1,500 kcal causes plateaus. Weigh daily after the bathroom and compare 7-day averages; if the 14-day trend stalls, remove 100 kcal. Donnie went 2,700 to 2,200 kcal over 16 weeks, from 27% to 7% body fat (DEXA), with no drugs.",
+    "Macros: 30% protein, 40% carbs, 30% fat (Donnie: 200 g protein, 270 g carbs, 90 g fat). When cutting calories, take them from carbs and keep fat at least 50 g for hormones. 'Protein controls hunger, carbs performance, fats hormones after 35.'",
+    "Easy 50 g protein portions, '2-6-7-8-10': 2 scoops whey, 6 oz cooked chicken or turkey, 7 oz salmon, 8 oz lean beef, 10 oz white fish. 50 g carbs: 2 bananas, 6 oz white rice, 7 oz brown rice, 8 oz al dente pasta, 10 oz sweet potato.",
+    "Eating window: eating over about 14–15 hours never lets insulin (a storage hormone) drop. Don't jump straight to 16:8; shrink the window in stages, shifting 2 hours each: 12:12 (2,500+ kcal), 14:10 (2,200–2,500), 16:8 (about 2,000–2,200, where he says autophagy begins), 18:6 (1,700–2,200, for going under 12%). Most never need more.",
+    "Three routes to 12%: lose fat, build muscle, or both. More muscle burns more and lets abs show at a higher body fat.",
+    "Rule 3, muscle maximizer: dieting without training loses about a quarter of the weight as muscle. Repeated diets shrink your 'sponge', so the same food now gets stored as fat. He claims a pound of muscle burns about 3× a pound of fat. He offers free 3–6-day training plans (including a women's version) in the description.",
+    "Rule 4, walk daily instead of treadmill sprints or intense cardio. 15K steps is about 500 kcal; 7 days is about 3,500 kcal, about 1 lb of fat a week in theory. Walking is lowest friction to sustain.",
+    "Case studies: Brian (44, 212 lb) cycled 100 miles a week but took only about 2K steps; at 8K–20K steps he reached 163 lb. Francesca (30, military, 12-hour shifts) stalled at 150 lb on under 6K steps, then went to 121 lb in 16 weeks as steps rose (averaging 9,292 a day).",
+    "'Stepladder': start at about 8K and add 1,000 steps (about 10 minutes) a week. Don't jump straight to 14K; the body treats it as stress and it won't last.",
+    "Rule 5, the daily routine: wake at 6:30, weigh in, drink 16 oz of fluid, take a walk outside within 10 minutes (sunlight), black coffee, tea or matcha about an hour later. Take psyllium husk before meal 1 (11 AM) and eat protein first, fibre second, carbs last. Check steps, walk 10 minutes after meals, gym, then meal 2. Have 1 tbsp apple cider vinegar in water (through a straw) before meal 3 at 7 PM, magnesium glycinate for sleep, and keep the 2-hour and 1-hour cut-offs. Make habits gradually; chasing a perfect week leads to quitting in week 3.",
+    "Rule 6, over 35: he says testosterone drops about 1% a year from 30, so the deficit that worked at 28 stops working. Typical busy-executive traps include travel, late takeaway, alcohol to unwind and night snacking.",
+    "His mother: 2 years of diets failed, and doctors suggested Ozempic. Her bloods showed undiagnosed metabolic syndrome (high blood pressure, high blood sugar or pre-diabetes, high triglycerides, low HDL, belly fat).",
+    "Client examples of blood issues found: low testosterone, underactive thyroid (high TSH, low free T4), high morning cortisol, high fasting insulin, low vitamin D, metabolic syndrome. Brian's high LDL (139) went unexplained for years, and he survived a 'widowmaker' heart attack (100% LAD blockage) at 43.",
+    "Advice: get a blood panel ('what cannot be measured cannot be managed'). Take it to your GP and ask which markers are out of range and why; fix those first. On GLP-1s: he doesn't say to stop, but weight often returns after stopping if root causes aren't fixed.",
+    "Pitch: much of the last third promotes his paid Sculpt by Science program (112-biomarker bloods, DEXA, doctor team, weekly recalibration) via a QR code or link. He closes: 'keep putting one foot in front of the other.'"
+  ]
+},
+{
+  "id": 67,
+  "added": "2026-11-04",
+  "url": "https://youtu.be/jwh6rSo2E3M",
+  "title": "3 Phases of Losing Belly Fat (Most Men Get Stuck at Phase 2)",
+  "author": "Chris H",
+  "category": "Health & Fitness",
+  "core": "Chris describes three phases of losing belly fat. Phase 1 (clearly overweight): fat is everywhere and belly fat goes last, but losing weight is relatively easy; 5–15 kg in 3 months is possible. Phase 2 is where most men get stuck, in one of two ways. Some only diet and become skinny-fat, then 'bulk', get fat again and loop for years. Others train but hit metabolic adaptation, because a lighter body burns less. The fix is to raise output (progressive overload with tracked workouts, more muscle, more steps) and lower intake by eating clean, satiating foods. Phase 3 (about 10–12% body fat, 'diced') is Phase 2 amplified: daily proper Zone 2 cardio, eating clean 90–100% of the time, and repetitive meals to cut decision fatigue. It's hard, and under 1% of people get there.",
+  "points": [
+    "Phase 1: overweight with fat everywhere (face, arms, back, legs, shoulders). You can't expect to diet the belly away and reveal abs; belly fat is the last place men lose fat. You can lose 10–15 kg and still have stubborn lower-belly fat.",
+    "The good news in Phase 1: fat loss is relatively easy with so much to lose. 5–10 kg (sometimes 15) in about 3 months if you execute; not a 1–2-month fix.",
+    "His story: 75 kg at 5'7\" and chubby; he lost about 10 kg in about 6 months. Bigger, taller people have it easier because they can eat more and still lose weight.",
+    "Mistake: thinking it's only a fat problem. Losing fat without building muscle leaves you a smaller, still soft version with no definition or veins. He spent his first 6–12 months only eating less and ended up 'looking like a normal person' with the same insecurities.",
+    "Phase 2, scenario A (skinny-fat loop): lose weight and feel scrawny, then 'bulk' by eating lots, get fat again and return to Phase 1. He went from 60 kg up to 80 kg. Some men yo-yo like this for 20+ years.",
+    "Building muscle needs far less food than people think. His clients progress in the gym on about 2,000 kcal a day; stored body fat supplies the energy.",
+    "Phase 2, scenario B: you train but still hold midsection fat, so keep the deficit going. Metabolic adaptation kicks in: a lighter body burns fewer calories walking and at rest (lower BMR), so the old intake now plateaus. That coincides with belly fat being last, which is why many get stuck.",
+    "Fix: increase output and decrease intake. Output: keep training with progressive overload and track every workout (e.g. shoulder press 20 kg × 10 last week, aim for 11 this week). More muscle raises the calories you burn at rest. Also add steps, general activity and some cardio (e.g. a run club).",
+    "Intake: the biggest lever is eating clean. Whole foods are lower in calories and more satiating, so you're less tempted by brownies and chips. He claims it brings steadier insulin and glucose, better hormones (higher testosterone, lower cortisol), more energy, no 3 PM crash, and more energy to train. He also claims processed foods tend to be stored rather than burned.",
+    "Phase 3: 10–12% body fat, 'diced', almost amateur-stage ready. It's Phase 2 amplified and genuinely hard; he says under 1% of people get there (and calls 25%+ body fat obese).",
+    "Phase 3 output: on top of progressive training, near-daily proper cardio, not just 10K steps (that's Phase 2). Run, swim, cycle, StairMaster or incline treadmill in Zone 2: low intensity, still able to talk, minimal impact on recovery.",
+    "Zone 2 heart rate is about 180 minus your age (30 years old = 150 bpm). Track it with a watch or ring; a couple of bpm over is fine.",
+    "Phase 3 intake: he reached about 10% without tracking calories, weighing food or using photo apps, because the higher output did the heavy lifting. Eat clean, natural foods 90–95% of the time (ideally 100%).",
+    "Mindset: focusing on positive actions (cardio, training) distracts you from resisting junk food.",
+    "He cites studies linking less food variety to better weight loss: eat the same breakfasts and lunches, or rotate a small pool of meals, to avoid decision fatigue. Scrolling a delivery app is when bad choices happen.",
+    "Ends with a pitch for his one-to-one coaching (form in the description)."
+  ]
 }
 ];
 
-window.LAST_UPDATED="2026-11-04T14:35:00+08:00";
+window.LAST_UPDATED="2026-11-04T22:28:00+05:30";
