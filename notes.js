@@ -1285,7 +1285,48 @@ window.NOTES = [
     "He cites studies linking less food variety to better weight loss: eat the same breakfasts and lunches, or rotate a small pool of meals, to avoid decision fatigue. Scrolling a delivery app is when bad choices happen.",
     "Ends with a pitch for his one-to-one coaching (form in the description)."
   ]
+},
+{
+  "id": 68,
+  "added": "2026-11-06",
+  "url": "https://youtu.be/xi-zHJL5bnI",
+  "title": "Diet Expert: Weight Loss, Calories, Digestion, Sugar & Belly Fat | Pooja Makhija | FO433 Raj Shamani",
+  "author": "Raj Shamani",
+  "category": "Health & Fitness",
+  "core": "Clinical nutritionist Pooja Makhija tells Raj Shamani that most Indian health problems come down to five basics: enough protein, 'dressed' carbs (with fibre and protein), mineralised water, sleep and movement. About 73% of Indians don't get enough protein, so they load up on 'naked' carbs that spike blood sugar. Meal sequencing (fibre → protein → carb) can cut glucose spikes by about 40%. Sugar cravings are often the body asking for protein or salt, not more sugar; salt was unfairly demonised while sugar did the damage. Breakfast skippers are far more likely to have belly fat and obesity. Indians carry a 'thrifty gene' from colonial-era famines (TOFI: thin outside, fat inside), so they need more movement. She also covers crisis meal planning, why the classic Indian thali beats trendy Western diets, travel constipation, long-haul flight habits, 'fake sleep' from alcohol, and that looking good is 'rented, not owned' — the rent is due every day.",
+  "points": [
+    "The body is a self-healing machine that needs raw materials: food, air, water and sleep. 'Give the body what the body wants, the body gives you what you want.'",
+    "Protein is essential for immunity, repair and healing, not just bodybuilding. About 73% of Indians don't get enough; one bowl of dal a day isn't enough. Eat protein at breakfast, lunch and dinner.",
+    "'Naked carbs' are carbs without fibre and protein (plain poha, plain pasta, chutney bread, lemon rice, aloo paratha). Dress them both ways: fibre (sabzi, salad, soup) in front and protein (dal, pulses, sprouts, eggs, chicken, fish) behind, so gastric emptying slows and glucose spikes fall. One-sided dressing (idli-sambar with protein but no fibre; vegetable sandwich with fibre but no protein) still fails.",
+    "There's no single best carb or millet for everyone; listen to your body. Bajra may suit one person and not another.",
+    "Meal sequencing can cut glucose spikes by about 40%. Treat the stomach like a washbasin: put raw salad or resistant starch first (kakdi, tomato, carrot is fine), then protein and sabzi, then roti or rice last. Same thali, different order.",
+    "Sugar spikes are inflammation. Controlling them is the real 'anti-inflammatory diet'. Carbs themselves are energy givers; fear the naked ones, not carbs.",
+    "Two kinds of craving: psychological (childhood associations — chocolate after a fall, halwa for period cramps; food as emotional distraction for every mood) and physiological. Physiological sugar cravings often mean the body wants protein or salt.",
+    "Salt was demonised so sugar could shine. Sodium is essential; excess salt exits in urine, excess sugar is stored as fat. Ambulances give saline (NaCl), not glucose, first. Low salt makes the kidneys ask for more insulin to reabsorb sodium, which drops blood sugar and drives more sugar eating.",
+    "Cook with iodised salt for the thyroid. For drinking water, put a small crystal of khadi/rock/pink salt on the tongue, then drink. Plain RO water is just H₂O with the minerals stripped; mineralised water is absorbed intracellularly, lengthens the time to the bathroom, actually quenches thirst and lowers sugar cravings. Adults need about 2–3 litres a day. Even 2% dehydration hurts memory, mood and cognition; by the time you feel thirsty you're already about 40% dehydrated (her figure).",
+    "Meta-analysis of 45 observational studies: breakfast skippers are 31% more likely to have belly fat, 48% more overweight and 44% more obese. Skipping leaves a nutritional void that gets filled with wrong night foods.",
+    "Thrifty gene: colonial-era famines (Bengal 1770s, Madras 1870s) made Indian bodies storers rather than burners. Result: more visceral fat, less lean mass, more insulin resistance — the TOFI phenotype (thin outside, fat inside). Indians in the West with the same lifestyle still have higher CVD, BP and diabetes risk. Surplus food plus less movement makes it worse. 'The more we eat of what God made, the healthier; the more of what man makes, the unhealthier.'",
+    "Ghrelin (hunger) and leptin (satiety) respond differently in different people when sad; some binge, some lose appetite. Lifestyle, especially sleep, drives about 70% of how you age; genetics is predisposition. Poor sleep tanks leptin and raises ghrelin.",
+    "Sleep is non-negotiable. 6 hours vs 7–8 raises fracture/osteoporosis risk by about 40% and raises all-cause mortality if chronic. Same breakfast after 6 vs 7 vs 8 hours of sleep produces different glucose spikes.",
+    "Sugar can be about 8 times more addictive than cocaine and hits the same dopamine reward centres, but we shrug and say 'sweet tooth'.",
+    "In a breakup, burnout or crisis: don't live meal to meal. Write a 10-day cyclic menu (breakfast/lunch/dinner) with a friend, nutritionist or ChatGPT, put it on the fridge, and eat what's planned. One bad choice starts a reward/punishment loop.",
+    "Top 5 for a low: protein (cuts sugar cravings), good fats (longer fullness), magnesium-rich foods (nuts, seeds — calm and sleep), hydration (thirst and hunger centres are so close that about 90% of 'hunger' is thirst), and one small planned cheat so you're not a saint under stress. Majority good 'information' to the body gets you out of the slump faster.",
+    "Mental sharpness is mostly gut: for every 1 signal the brain sends the gut, the gut sends about 9 back. Dehydration, low protein, sugar, no sleep and no exercise all blunt it.",
+    "Sedentary life is a disease. About 50% of urban Indians don't move; women more than men. In one Pune/Mumbai/Chennai study, 6 in 10 were inactive. Looking good is a tiny benefit next to mental alertness and organ health. Bones are living tissue (osteoblasts build, osteoclasts break); without strength training, aging and hormones favour the breakers and you become a 'melting frame'.",
+    "400 repetitions to form a new memory, but only 10–20 if done in play — why kids learn song lyrics fast. Enjoy movement instead of grinding under a trainer.",
+    "Classic Indian thali (salad, fermented achar/probiotics, 2–3 sabzis, dal, carb) is as good as or better than the Mediterranean diet and already follows meal sequencing. Ancestors practised what science now calls chronobiology: biggest meal at breakfast, smallest at dinner.",
+    "Study: 100 obese women, same calories for 12 weeks. Group 1 (700 breakfast / 500 lunch / 200 dinner) lost about twice the weight of Group 2 (200 / 500 / 700). 'King, prince, pauper,' as grandmothers said. North vs South Indian differences are mostly taste and preparation, not biology; the shared trait is the thrifty storer gene.",
+    "Travel constipation: bowels follow HMF — Hydration (2–3 L), Movement (~60 min for peristalsis), Fibre. Travel wrecks all three plus sleep. Fix by drinking more (even when water costs more than beer abroad), walking and adding vegetables.",
+    "Long-haul flight: cabin has less oxygen → more inflammation, so take about 2,000 mg omega-3. Cabin leaches about 1 L water every 3 hours; drink mineralised water, skip alcohol. Best drink: Virgin Mary (tomato juice + salt/pepper for electrolytes + anti-inflammatory). Taste buds are about 50% less sensitive up there, so airline food is over-flavoured (more umami). Sleep, and walk the aisle a few times when you go to the toilet. Low oxygen and dehydration also make people more emotional on planes.",
+    "'Lucky girl syndrome': tell your brain each morning that it's a good day so the amygdala filters for happy inputs among the tens of thousands of bytes it gets every second. Looking healthy is 'rented, not owned' — the rent is due every day.",
+    "Fake sleep: alcohol (and other intoxicants) helps you fall asleep faster but wrecks REM/long-term sleep, so you wake tired.",
+    "Seasonal tweaks: winters and monsoons make people forget water (confusing thirst with hunger). Summers favour lighter, raw or sautéed meals (e.g. cold curd rice with sprouts) over heavy cooking; winters favour warm soups and curries.",
+    "Celebrity clients: Shahid Kapoor is the most disciplined (same simple food for weeks, e.g. ragi steamed balls). Deepika and Ishaan Khatter also grind hard. Ranbir was the most notorious early on ('I'm not going to listen') and hated her vegetable juice, but Neetu later said he never skipped it.",
+    "Vegetable juice: any 3 colours of fridge veggies in a mixie with a little water, blend, strain, put ~50% pulp back, add nimbu and kala namak. No fruit. Acquire the taste in about 10 tries if you frame it as good for you.",
+    "Target nutrients once the base diet is solid: salt for bloating, magnesium for anxiety, chromium picolinate for sugar balance, zinc for immunity, curcumin + vitamin C for sinuses, omega-3 for inflammation.",
+    "Closing: small changes, big results. Love and respect the machine and it loves you back. Outro plugs subscribe / comment / share."
+  ]
 }
 ];
 
-window.LAST_UPDATED="2026-11-04T22:28:00+05:30";
+window.LAST_UPDATED="2026-11-06T13:45:00+05:30";
